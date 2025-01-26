@@ -1,0 +1,3 @@
+Initial Data: fhvhv_tripdata_2024-01.parquet
+Columns:
+Source Link: 
