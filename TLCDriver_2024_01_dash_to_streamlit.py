@@ -38,7 +38,8 @@ else:
         title=f"Total Driver Pay for Top 10 Zones on {selected_weekday}",
         xaxis_title="Hour of Day",
         yaxis_title="Zone",
-        coloraxis_colorbar=dict(title="Total Pay ($)")
+        coloraxis_colorbar=dict(title="Total Pay ($)"),
+        autosize=True
         
     )
     
