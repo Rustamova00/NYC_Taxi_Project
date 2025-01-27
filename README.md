@@ -7,3 +7,4 @@ Background: TLC Drivers in NYC can work on Lyft and Uber offering rideshare to N
 •	Improve the alignment between driver availability and peak customer demand.
 
 **Data:** The Data set is open sourced from the TLC website. It’s a dataset containing historical trip data, including trip distance, duration, fare amount, tips, pickup and drop-off locations, and timestamps, was analyzed to identify patterns and optimization opportunities.
+**Dashboard Link**: https://nyctaxiproject-mexceys6689jrppnhhtzyq.streamlit.app
