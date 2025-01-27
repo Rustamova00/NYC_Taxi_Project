@@ -42,6 +42,6 @@ else:
         
     )
     
-st.set_page_config(layout="wide")
+
     # Display the heatmap in Streamlit
 st.plotly_chart(fig)
