@@ -1,0 +1,22 @@
+import streamlit as st
+import pandas as pd
+import streamlit as st
+import plotly.express as px
+import numpy as np
+ #importing data
+df = pd.read_csv("TLCDriver_2024_01_dash.csv")
+df_tripdata_2024_01 = pd.DataFrame(df)
+
+#st.write(df_tripdata_2024_01.head())
+#User Selecting a weekday to focus on
+st.subheader("Select Weekday")
+weekdays= df_tripdata_2024_01["weekday"].unique().tolist()
+#selected weekday dataframe
+selected_weekday= st.selectbox("Select Weekday to filter by", weekdays)
+unique_values = df_tripdata_2024_01[df_tripdata_2024_01['weekday'] == selected_weekday]['weekday'].unique()
+filtered_df = df_tripdata_2024_01[df_tripdata_2024_01['weekday'] == selected_weekday]
+ 
+# Create heatmap using Plotly Express
+fig = px.imshow(filtered_df)
+# Display the heatmap in Streamlit
+st.plotly_chart(fig)
