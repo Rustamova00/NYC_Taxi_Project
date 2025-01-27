@@ -1,37 +1,46 @@
 import streamlit as st
 import pandas as pd
-#import streamlit as st
 import plotly.express as px
-#from streamlit.runtime.scriptrunner import add_script_run_ctx,get_script_run_ctx
-#from subprocess import Popen
-
-#ctx = get_script_run_ctx()
-##Some code##
-#process = Popen(['python','my_script.py'])
-#add_script_run_ctx(process,ctx)
-#import numpy as np
-#importing data
-
 
 df = pd.read_csv("TLCDriver_2024_01_dash.csv")
-df_tripdata_2024_01 = pd.DataFrame(df)
+heatmap_data = pd.DataFrame(df)
 
-#st.write(df_tripdata_2024_01.head())
-#User Selecting a weekday to focus on
-st.subheader("Select Weekday")
-weekdays= df_tripdata_2024_01["weekday"].unique().tolist()
-#selected weekday dataframe
-selected_weekday= st.selectbox("Select Weekday to filter by", weekdays)
-unique_values = df_tripdata_2024_01[df_tripdata_2024_01['weekday'] == selected_weekday]['weekday'].unique()
-filtered_df = df_tripdata_2024_01[df_tripdata_2024_01['weekday'] == selected_weekday]
- 
+# Streamlit app title
+st.title("Driver Pay Heatmap by Weekday and Hour")
 
-# Create heatmap using Plotly Express
-fig = px.scatter(
-    filtered_df,
-    x="hour",
-    y="Zone",
-    color="driver_pay",
-    color_continuous_scale="blues",
+# Dropdown for weekday selection
+selected_weekday = st.selectbox(
+    "Select a Weekday",
+    options=heatmap_data['weekday'].unique(),
+    index=0
 )
-st.plotly_chart(fig, theme="streamlit", use_container_width=False,selection_mode=('box'),size=100)
+
+# Filter data for the selected weekday
+weekday_data = heatmap_data[heatmap_data['weekday'] == selected_weekday]
+
+# Create pivot table for the heatmap
+heatmap_pivot = weekday_data.pivot(index='Zone', columns='hour', values='driver_pay')
+
+# Check if data exists for the selected weekday
+if heatmap_pivot.empty:
+    st.warning(f"No data available for {selected_weekday}.")
+else:
+    # Plot the heatmap
+    fig = px.imshow(
+        heatmap_pivot,
+        labels=dict(x="Hour", y="Zone", color="Total Driver Pay"),
+        x=heatmap_pivot.columns,
+        y=heatmap_pivot.index,
+        color_continuous_scale='reds'
+    )
+
+    # Customize layout
+    fig.update_layout(
+        title=f"Total Driver Pay for Top 10 Zones on {selected_weekday}",
+        xaxis_title="Hour of Day",
+        yaxis_title="Zone",
+        coloraxis_colorbar=dict(title="Total Pay ($)"),
+    )
+
+    # Display the heatmap in Streamlit
+    st.plotly_chart(fig)
