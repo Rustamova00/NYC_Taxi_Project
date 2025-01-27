@@ -15,8 +15,14 @@ selected_weekday = st.selectbox(
     index=0
 )
 
+selected_zone = st.selectbox(
+    "Select a Zone",
+    options=heatmap_data['Zone'].unique(),
+    index=0
+)
+
 # Filter data for the selected weekday
-weekday_data = heatmap_data[heatmap_data['weekday'] == selected_weekday]
+weekday_data = heatmap_data[heatmap_data['weekday'] == selected_weekday, heatmap_data['Zone'] == selected_zone]
 
 # Create pivot table for the heatmap
 heatmap_pivot = weekday_data.pivot(index='Zone', columns='hour', values='driver_pay')
