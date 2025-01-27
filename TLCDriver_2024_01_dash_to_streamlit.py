@@ -1,8 +1,8 @@
 import streamlit as st
 import pandas as pd
 import streamlit as st
-import plotly.express as px
-import numpy as np
+#import plotly.express as px
+#import numpy as np
  #importing data
 df = pd.read_csv("TLCDriver_2024_01_dash.csv")
 df_tripdata_2024_01 = pd.DataFrame(df)
@@ -17,6 +17,6 @@ unique_values = df_tripdata_2024_01[df_tripdata_2024_01['weekday'] == selected_w
 filtered_df = df_tripdata_2024_01[df_tripdata_2024_01['weekday'] == selected_weekday]
  
 # Create heatmap using Plotly Express
-fig = px.imshow(filtered_df)
+#fig = px.imshow(filtered_df)
 # Display the heatmap in Streamlit
-st.plotly_chart(fig)
+#st.plotly_chart(fig)
