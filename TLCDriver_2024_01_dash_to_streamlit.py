@@ -1,16 +1,18 @@
 import streamlit as st
 import pandas as pd
-import streamlit as st
+#import streamlit as st
 import plotly.express as px
-from streamlit.runtime.scriptrunner import add_script_run_ctx,get_script_run_ctx
-from subprocess import Popen
+#from streamlit.runtime.scriptrunner import add_script_run_ctx,get_script_run_ctx
+#from subprocess import Popen
 
-ctx = get_script_run_ctx()
+#ctx = get_script_run_ctx()
 ##Some code##
-process = Popen(['python','my_script.py'])
-add_script_run_ctx(process,ctx)
+#process = Popen(['python','my_script.py'])
+#add_script_run_ctx(process,ctx)
 #import numpy as np
- #importing data
+#importing data
+
+
 df = pd.read_csv("TLCDriver_2024_01_dash.csv")
 df_tripdata_2024_01 = pd.DataFrame(df)
 
