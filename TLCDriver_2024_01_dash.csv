@@ -1,0 +1,1681 @@
+weekday,Zone,hour,driver_pay
+Friday,Crown Heights North,0,13328.91
+Friday,Crown Heights North,1,8398.76
+Friday,Crown Heights North,2,6117.39
+Friday,Crown Heights North,3,7178.81
+Friday,Crown Heights North,4,9912.66
+Friday,Crown Heights North,5,15101.63
+Friday,Crown Heights North,6,21311.5
+Friday,Crown Heights North,7,33031.99
+Friday,Crown Heights North,8,32445.99
+Friday,Crown Heights North,9,28512.66
+Friday,Crown Heights North,10,22054.56
+Friday,Crown Heights North,11,21387.42
+Friday,Crown Heights North,12,22346.7
+Friday,Crown Heights North,13,22866.54
+Friday,Crown Heights North,14,27039.68
+Friday,Crown Heights North,15,30326.2
+Friday,Crown Heights North,16,29367.71
+Friday,Crown Heights North,17,34022.33
+Friday,Crown Heights North,18,38625.93
+Friday,Crown Heights North,19,36370.22
+Friday,Crown Heights North,20,32473.4
+Friday,Crown Heights North,21,28180.67
+Friday,Crown Heights North,22,33686.82
+Friday,Crown Heights North,23,35601.26
+Friday,East Chelsea,0,18202.59
+Friday,East Chelsea,1,10487.76
+Friday,East Chelsea,2,8738.49
+Friday,East Chelsea,3,9967.59
+Friday,East Chelsea,4,10406.44
+Friday,East Chelsea,5,12413.56
+Friday,East Chelsea,6,14075.38
+Friday,East Chelsea,7,18323.73
+Friday,East Chelsea,8,21479.27
+Friday,East Chelsea,9,23193.8
+Friday,East Chelsea,10,26579.59
+Friday,East Chelsea,11,28162.53
+Friday,East Chelsea,12,24978.46
+Friday,East Chelsea,13,29249.05
+Friday,East Chelsea,14,32582.16
+Friday,East Chelsea,15,31992.5
+Friday,East Chelsea,16,26694.96
+Friday,East Chelsea,17,33063.69
+Friday,East Chelsea,18,35332.84
+Friday,East Chelsea,19,33761.2
+Friday,East Chelsea,20,31670.26
+Friday,East Chelsea,21,35126.48
+Friday,East Chelsea,22,45722.13
+Friday,East Chelsea,23,41451.22
+Friday,East Village,0,32027.3
+Friday,East Village,1,24694.77
+Friday,East Village,2,19737.73
+Friday,East Village,3,13825.37
+Friday,East Village,4,13926.51
+Friday,East Village,5,10781.92
+Friday,East Village,6,12910.48
+Friday,East Village,7,14744.69
+Friday,East Village,8,18145.63
+Friday,East Village,9,16125.4
+Friday,East Village,10,13838.04
+Friday,East Village,11,13703.97
+Friday,East Village,12,15234.11
+Friday,East Village,13,16867.34
+Friday,East Village,14,18509.17
+Friday,East Village,15,18875.79
+Friday,East Village,16,18635.61
+Friday,East Village,17,23909.7
+Friday,East Village,18,33812.66
+Friday,East Village,19,40547.86
+Friday,East Village,20,43506.46
+Friday,East Village,21,50092.04
+Friday,East Village,22,66635.6
+Friday,East Village,23,80230.2
+Friday,JFK Airport,0,105229.31
+Friday,JFK Airport,1,50780.02
+Friday,JFK Airport,2,14942.93
+Friday,JFK Airport,3,7394.41
+Friday,JFK Airport,4,5356.15
+Friday,JFK Airport,5,40672.63
+Friday,JFK Airport,6,88952.43
+Friday,JFK Airport,7,94846.59
+Friday,JFK Airport,8,66920.81
+Friday,JFK Airport,9,80827.69
+Friday,JFK Airport,10,77601.94
+Friday,JFK Airport,11,74565.48
+Friday,JFK Airport,12,85207.73
+Friday,JFK Airport,13,101941.68
+Friday,JFK Airport,14,142988.42
+Friday,JFK Airport,15,150785.3
+Friday,JFK Airport,16,191008.35
+Friday,JFK Airport,17,158698.02
+Friday,JFK Airport,18,123266.07
+Friday,JFK Airport,19,138168.28
+Friday,JFK Airport,20,147064.07
+Friday,JFK Airport,21,157884.19
+Friday,JFK Airport,22,168005.43
+Friday,JFK Airport,23,164073.36
+Friday,LaGuardia Airport,0,29088.06
+Friday,LaGuardia Airport,1,5434.22
+Friday,LaGuardia Airport,2,1027.57
+Friday,LaGuardia Airport,3,323.75
+Friday,LaGuardia Airport,4,567.91
+Friday,LaGuardia Airport,5,833.44
+Friday,LaGuardia Airport,6,2470.77
+Friday,LaGuardia Airport,7,19042.53
+Friday,LaGuardia Airport,8,46198.51
+Friday,LaGuardia Airport,9,77922.59
+Friday,LaGuardia Airport,10,92343.34
+Friday,LaGuardia Airport,11,76706.82
+Friday,LaGuardia Airport,12,83958.98
+Friday,LaGuardia Airport,13,84153.27
+Friday,LaGuardia Airport,14,109185.05
+Friday,LaGuardia Airport,15,116403.34
+Friday,LaGuardia Airport,16,123920.73
+Friday,LaGuardia Airport,17,100311.81
+Friday,LaGuardia Airport,18,119047.37
+Friday,LaGuardia Airport,19,128058.66
+Friday,LaGuardia Airport,20,100560.33
+Friday,LaGuardia Airport,21,85647.53
+Friday,LaGuardia Airport,22,101424.67
+Friday,LaGuardia Airport,23,78244.56
+Friday,Midtown Center,0,26337.83
+Friday,Midtown Center,1,13066.46
+Friday,Midtown Center,2,8781.44
+Friday,Midtown Center,3,5200.21
+Friday,Midtown Center,4,6919.13
+Friday,Midtown Center,5,5795.53
+Friday,Midtown Center,6,7867.91
+Friday,Midtown Center,7,10459.6
+Friday,Midtown Center,8,13177.47
+Friday,Midtown Center,9,16827.6
+Friday,Midtown Center,10,23409.32
+Friday,Midtown Center,11,26753.25
+Friday,Midtown Center,12,29299.72
+Friday,Midtown Center,13,37012.54
+Friday,Midtown Center,14,38803.28
+Friday,Midtown Center,15,40626.8
+Friday,Midtown Center,16,43192.13
+Friday,Midtown Center,17,47977.02
+Friday,Midtown Center,18,40577.26
+Friday,Midtown Center,19,39158.84
+Friday,Midtown Center,20,34525.84
+Friday,Midtown Center,21,34405.61
+Friday,Midtown Center,22,37627.65
+Friday,Midtown Center,23,34307.47
+Friday,Midtown South,0,24626.14
+Friday,Midtown South,1,19897.170000000002
+Friday,Midtown South,2,13042.56
+Friday,Midtown South,3,10514.15
+Friday,Midtown South,4,13890.84
+Friday,Midtown South,5,13790.58
+Friday,Midtown South,6,13198.58
+Friday,Midtown South,7,15257.54
+Friday,Midtown South,8,19538.06
+Friday,Midtown South,9,19768.22
+Friday,Midtown South,10,21166.23
+Friday,Midtown South,11,21480.72
+Friday,Midtown South,12,23456.87
+Friday,Midtown South,13,26228.54
+Friday,Midtown South,14,28340.04
+Friday,Midtown South,15,28707.72
+Friday,Midtown South,16,25371.57
+Friday,Midtown South,17,27928.9
+Friday,Midtown South,18,30858.99
+Friday,Midtown South,19,31363.06
+Friday,Midtown South,20,28849.84
+Friday,Midtown South,21,29663.48
+Friday,Midtown South,22,38736.47
+Friday,Midtown South,23,45406.52
+Friday,Times Sq/Theatre District,0,32537.23
+Friday,Times Sq/Theatre District,1,19495.6
+Friday,Times Sq/Theatre District,2,13639.6
+Friday,Times Sq/Theatre District,3,11538.11
+Friday,Times Sq/Theatre District,4,15545.29
+Friday,Times Sq/Theatre District,5,13999.33
+Friday,Times Sq/Theatre District,6,15389.34
+Friday,Times Sq/Theatre District,7,20498.97
+Friday,Times Sq/Theatre District,8,26010.09
+Friday,Times Sq/Theatre District,9,28997.75
+Friday,Times Sq/Theatre District,10,29074.17
+Friday,Times Sq/Theatre District,11,31668.8
+Friday,Times Sq/Theatre District,12,31055.85
+Friday,Times Sq/Theatre District,13,29454.51
+Friday,Times Sq/Theatre District,14,31638.32
+Friday,Times Sq/Theatre District,15,30206.45
+Friday,Times Sq/Theatre District,16,28064.46
+Friday,Times Sq/Theatre District,17,31200.29
+Friday,Times Sq/Theatre District,18,29768.14
+Friday,Times Sq/Theatre District,19,27421.84
+Friday,Times Sq/Theatre District,20,31939.28
+Friday,Times Sq/Theatre District,21,47073.39
+Friday,Times Sq/Theatre District,22,68991.69
+Friday,Times Sq/Theatre District,23,48663.23
+Friday,TriBeCa/Civic Center,0,21664.37
+Friday,TriBeCa/Civic Center,1,10811.87
+Friday,TriBeCa/Civic Center,2,5672.42
+Friday,TriBeCa/Civic Center,3,4057.7
+Friday,TriBeCa/Civic Center,4,10331.48
+Friday,TriBeCa/Civic Center,5,11331.11
+Friday,TriBeCa/Civic Center,6,16007.91
+Friday,TriBeCa/Civic Center,7,23703.24
+Friday,TriBeCa/Civic Center,8,26650.41
+Friday,TriBeCa/Civic Center,9,24649.52
+Friday,TriBeCa/Civic Center,10,24354.9
+Friday,TriBeCa/Civic Center,11,24868.32
+Friday,TriBeCa/Civic Center,12,26288.3
+Friday,TriBeCa/Civic Center,13,26834.39
+Friday,TriBeCa/Civic Center,14,31716.63
+Friday,TriBeCa/Civic Center,15,30781.84
+Friday,TriBeCa/Civic Center,16,31654.58
+Friday,TriBeCa/Civic Center,17,37459.52
+Friday,TriBeCa/Civic Center,18,43742.39
+Friday,TriBeCa/Civic Center,19,42955.5
+Friday,TriBeCa/Civic Center,20,38629.2
+Friday,TriBeCa/Civic Center,21,37059.83
+Friday,TriBeCa/Civic Center,22,44710.01
+Friday,TriBeCa/Civic Center,23,47170.7
+Friday,Union Sq,0,20752.17
+Friday,Union Sq,1,11220.62
+Friday,Union Sq,2,6568.55
+Friday,Union Sq,3,4889.6
+Friday,Union Sq,4,5630.35
+Friday,Union Sq,5,8148.56
+Friday,Union Sq,6,9395.97
+Friday,Union Sq,7,12228.52
+Friday,Union Sq,8,15145.94
+Friday,Union Sq,9,14346.76
+Friday,Union Sq,10,15106.5
+Friday,Union Sq,11,17978.44
+Friday,Union Sq,12,20336.16
+Friday,Union Sq,13,24129.32
+Friday,Union Sq,14,26571.47
+Friday,Union Sq,15,28890.38
+Friday,Union Sq,16,27440.12
+Friday,Union Sq,17,30769.38
+Friday,Union Sq,18,33367.5
+Friday,Union Sq,19,35235.2
+Friday,Union Sq,20,33481.63
+Friday,Union Sq,21,34756.08
+Friday,Union Sq,22,44532.25
+Friday,Union Sq,23,45950.06
+Monday,Bushwick South,0,37066.14
+Monday,Bushwick South,1,50348.55
+Monday,Bushwick South,2,51799.32
+Monday,Bushwick South,3,41094.73
+Monday,Bushwick South,4,28474.3
+Monday,Bushwick South,5,22961.58
+Monday,Bushwick South,6,24153.03
+Monday,Bushwick South,7,26269.38
+Monday,Bushwick South,8,24845.36
+Monday,Bushwick South,9,20162.12
+Monday,Bushwick South,10,17899.6
+Monday,Bushwick South,11,17183.89
+Monday,Bushwick South,12,18233.62
+Monday,Bushwick South,13,20014.43
+Monday,Bushwick South,14,20301.18
+Monday,Bushwick South,15,19715.98
+Monday,Bushwick South,16,21652.55
+Monday,Bushwick South,17,22371.51
+Monday,Bushwick South,18,21097.59
+Monday,Bushwick South,19,19858.5
+Monday,Bushwick South,20,17804.55
+Monday,Bushwick South,21,15549.77
+Monday,Bushwick South,22,16978.21
+Monday,Bushwick South,23,15345.1
+Monday,Clinton East,0,35317.37
+Monday,Clinton East,1,37575.43
+Monday,Clinton East,2,37707.89
+Monday,Clinton East,3,29876.96
+Monday,Clinton East,4,25594.81
+Monday,Clinton East,5,20019.17
+Monday,Clinton East,6,20144.01
+Monday,Clinton East,7,24801.13
+Monday,Clinton East,8,24579.06
+Monday,Clinton East,9,22178.33
+Monday,Clinton East,10,22165.89
+Monday,Clinton East,11,23076.56
+Monday,Clinton East,12,22709.93
+Monday,Clinton East,13,23057.21
+Monday,Clinton East,14,25086.92
+Monday,Clinton East,15,24659.77
+Monday,Clinton East,16,23686.85
+Monday,Clinton East,17,25589.82
+Monday,Clinton East,18,24369.5
+Monday,Clinton East,19,22842.19
+Monday,Clinton East,20,21969.88
+Monday,Clinton East,21,26450.56
+Monday,Clinton East,22,22183.32
+Monday,Clinton East,23,17483.27
+Monday,Crown Heights North,0,32241.46
+Monday,Crown Heights North,1,35016.79
+Monday,Crown Heights North,2,26239.36
+Monday,Crown Heights North,3,18295.82
+Monday,Crown Heights North,4,17325.03
+Monday,Crown Heights North,5,18470.45
+Monday,Crown Heights North,6,24375.91
+Monday,Crown Heights North,7,30497.09
+Monday,Crown Heights North,8,30498.99
+Monday,Crown Heights North,9,27468.76
+Monday,Crown Heights North,10,23060.36
+Monday,Crown Heights North,11,22257.77
+Monday,Crown Heights North,12,21561.19
+Monday,Crown Heights North,13,25222.12
+Monday,Crown Heights North,14,27613.16
+Monday,Crown Heights North,15,28077.81
+Monday,Crown Heights North,16,29074.42
+Monday,Crown Heights North,17,30840.58
+Monday,Crown Heights North,18,28705.03
+Monday,Crown Heights North,19,27024.46
+Monday,Crown Heights North,20,23569.74
+Monday,Crown Heights North,21,21520.06
+Monday,Crown Heights North,22,23788.07
+Monday,Crown Heights North,23,19415.91
+Monday,East Chelsea,0,30440.92
+Monday,East Chelsea,1,32949.37
+Monday,East Chelsea,2,28263.46
+Monday,East Chelsea,3,19276.74
+Monday,East Chelsea,4,16128.77
+Monday,East Chelsea,5,12259.75
+Monday,East Chelsea,6,15097.99
+Monday,East Chelsea,7,19444.36
+Monday,East Chelsea,8,27119.04
+Monday,East Chelsea,9,24279.33
+Monday,East Chelsea,10,24608.27
+Monday,East Chelsea,11,24414.47
+Monday,East Chelsea,12,29012.08
+Monday,East Chelsea,13,28915.05
+Monday,East Chelsea,14,28675.83
+Monday,East Chelsea,15,30421.41
+Monday,East Chelsea,16,32298.1
+Monday,East Chelsea,17,42317.58
+Monday,East Chelsea,18,37523.12
+Monday,East Chelsea,19,34356.02
+Monday,East Chelsea,20,33206.55
+Monday,East Chelsea,21,39092.4
+Monday,East Chelsea,22,30743.88
+Monday,East Chelsea,23,25458.39
+Monday,East Village,0,49745.64
+Monday,East Village,1,63111.09
+Monday,East Village,2,57562.25
+Monday,East Village,3,35380.68
+Monday,East Village,4,23478.04
+Monday,East Village,5,16016.63
+Monday,East Village,6,16971.71
+Monday,East Village,7,18184.97
+Monday,East Village,8,21322.08
+Monday,East Village,9,20194.51
+Monday,East Village,10,16650.08
+Monday,East Village,11,16438.98
+Monday,East Village,12,16775.79
+Monday,East Village,13,19557.35
+Monday,East Village,14,19545.95
+Monday,East Village,15,21548.24
+Monday,East Village,16,19773.87
+Monday,East Village,17,20852.65
+Monday,East Village,18,23747.21
+Monday,East Village,19,23416.72
+Monday,East Village,20,25700.29
+Monday,East Village,21,29949.78
+Monday,East Village,22,26518.52
+Monday,East Village,23,21011.99
+Monday,JFK Airport,0,128618.68
+Monday,JFK Airport,1,60886.67
+Monday,JFK Airport,2,25377.84
+Monday,JFK Airport,3,12307.76
+Monday,JFK Airport,4,11154.22
+Monday,JFK Airport,5,58287.52
+Monday,JFK Airport,6,122646.74
+Monday,JFK Airport,7,124306.72
+Monday,JFK Airport,8,97364.07
+Monday,JFK Airport,9,98729.26
+Monday,JFK Airport,10,131018.13
+Monday,JFK Airport,11,107234.22
+Monday,JFK Airport,12,122070.46
+Monday,JFK Airport,13,138151.93
+Monday,JFK Airport,14,178743.57
+Monday,JFK Airport,15,241244.4
+Monday,JFK Airport,16,241098.09
+Monday,JFK Airport,17,234562.29
+Monday,JFK Airport,18,189482.36
+Monday,JFK Airport,19,254306.54
+Monday,JFK Airport,20,202668.17
+Monday,JFK Airport,21,206204.84
+Monday,JFK Airport,22,242318.72
+Monday,JFK Airport,23,253843.34
+Monday,LaGuardia Airport,0,73139.87
+Monday,LaGuardia Airport,1,9247.33
+Monday,LaGuardia Airport,2,7549.65
+Monday,LaGuardia Airport,3,720.03
+Monday,LaGuardia Airport,4,895.37
+Monday,LaGuardia Airport,5,1391.64
+Monday,LaGuardia Airport,6,2704.58
+Monday,LaGuardia Airport,7,29326.71
+Monday,LaGuardia Airport,8,72432.28
+Monday,LaGuardia Airport,9,130732.97
+Monday,LaGuardia Airport,10,156366.6
+Monday,LaGuardia Airport,11,109760.69
+Monday,LaGuardia Airport,12,106276.76
+Monday,LaGuardia Airport,13,114231.55
+Monday,LaGuardia Airport,14,148159.23
+Monday,LaGuardia Airport,15,128302.99
+Monday,LaGuardia Airport,16,131733.1
+Monday,LaGuardia Airport,17,127723.43
+Monday,LaGuardia Airport,18,140107.44
+Monday,LaGuardia Airport,19,145379.11
+Monday,LaGuardia Airport,20,158145.31
+Monday,LaGuardia Airport,21,97683.58
+Monday,LaGuardia Airport,22,160032.68
+Monday,LaGuardia Airport,23,128483.07
+Monday,Midtown Center,0,25989.68
+Monday,Midtown Center,1,17623.93
+Monday,Midtown Center,2,13853.18
+Monday,Midtown Center,3,8806.09
+Monday,Midtown Center,4,5485.99
+Monday,Midtown Center,5,6066.79
+Monday,Midtown Center,6,7725.64
+Monday,Midtown Center,7,9836.58
+Monday,Midtown Center,8,12919.21
+Monday,Midtown Center,9,18037.71
+Monday,Midtown Center,10,21124.07
+Monday,Midtown Center,11,25965.19
+Monday,Midtown Center,12,27972.65
+Monday,Midtown Center,13,30713.9
+Monday,Midtown Center,14,35290.69
+Monday,Midtown Center,15,34841.01
+Monday,Midtown Center,16,38881.22
+Monday,Midtown Center,17,47135.66
+Monday,Midtown Center,18,48367.68
+Monday,Midtown Center,19,55124.12
+Monday,Midtown Center,20,66368.15
+Monday,Midtown Center,21,62855.82
+Monday,Midtown Center,22,40192.32
+Monday,Midtown Center,23,27415.01
+Monday,Times Sq/Theatre District,0,16949.079999999998
+Monday,Times Sq/Theatre District,1,11808.74
+Monday,Times Sq/Theatre District,2,10352.72
+Monday,Times Sq/Theatre District,3,17890.09
+Monday,Times Sq/Theatre District,4,20196.08
+Monday,Times Sq/Theatre District,5,15839.18
+Monday,Times Sq/Theatre District,6,17872.74
+Monday,Times Sq/Theatre District,7,22338.45
+Monday,Times Sq/Theatre District,8,32634.34
+Monday,Times Sq/Theatre District,9,31964.59
+Monday,Times Sq/Theatre District,10,34506.41
+Monday,Times Sq/Theatre District,11,38174.25
+Monday,Times Sq/Theatre District,12,37836.04
+Monday,Times Sq/Theatre District,13,36830.92
+Monday,Times Sq/Theatre District,14,36062.37
+Monday,Times Sq/Theatre District,15,33594.88
+Monday,Times Sq/Theatre District,16,32820.3
+Monday,Times Sq/Theatre District,17,37364.51
+Monday,Times Sq/Theatre District,18,39816.44
+Monday,Times Sq/Theatre District,19,40086.91
+Monday,Times Sq/Theatre District,20,48080.51
+Monday,Times Sq/Theatre District,21,54608.73
+Monday,Times Sq/Theatre District,22,36392.3
+Monday,Times Sq/Theatre District,23,28468.77
+Monday,West Chelsea/Hudson Yards,0,23337.11
+Monday,West Chelsea/Hudson Yards,1,34056.08
+Monday,West Chelsea/Hudson Yards,2,22782.19
+Monday,West Chelsea/Hudson Yards,3,15245.56
+Monday,West Chelsea/Hudson Yards,4,10266.31
+Monday,West Chelsea/Hudson Yards,5,8016.15
+Monday,West Chelsea/Hudson Yards,6,9770.04
+Monday,West Chelsea/Hudson Yards,7,15557.24
+Monday,West Chelsea/Hudson Yards,8,20273.32
+Monday,West Chelsea/Hudson Yards,9,16482.37
+Monday,West Chelsea/Hudson Yards,10,15081.63
+Monday,West Chelsea/Hudson Yards,11,18364.88
+Monday,West Chelsea/Hudson Yards,12,21048.51
+Monday,West Chelsea/Hudson Yards,13,25461.19
+Monday,West Chelsea/Hudson Yards,14,29955.59
+Monday,West Chelsea/Hudson Yards,15,36022.59
+Monday,West Chelsea/Hudson Yards,16,45884.11
+Monday,West Chelsea/Hudson Yards,17,53506.51
+Monday,West Chelsea/Hudson Yards,18,37241.05
+Monday,West Chelsea/Hudson Yards,19,31824.34
+Monday,West Chelsea/Hudson Yards,20,36507.06
+Monday,West Chelsea/Hudson Yards,21,33789.98
+Monday,West Chelsea/Hudson Yards,22,24961.8
+Monday,West Chelsea/Hudson Yards,23,14060.8
+Saturday,Clinton East,0,40802.41
+Saturday,Clinton East,1,36099.51
+Saturday,Clinton East,2,31737.41
+Saturday,Clinton East,3,27051.53
+Saturday,Clinton East,4,19728.02
+Saturday,Clinton East,5,11432.97
+Saturday,Clinton East,6,10761.95
+Saturday,Clinton East,7,12501.0
+Saturday,Clinton East,8,13360.4
+Saturday,Clinton East,9,17034.15
+Saturday,Clinton East,10,18417.55
+Saturday,Clinton East,11,22360.51
+Saturday,Clinton East,12,23062.14
+Saturday,Clinton East,13,23871.2
+Saturday,Clinton East,14,22861.68
+Saturday,Clinton East,15,23420.32
+Saturday,Clinton East,16,31629.13
+Saturday,Clinton East,17,37210.57
+Saturday,Clinton East,18,37679.4
+Saturday,Clinton East,19,38696.58
+Saturday,Clinton East,20,30690.56
+Saturday,Clinton East,21,34614.76
+Saturday,Clinton East,22,51947.41
+Saturday,Clinton East,23,53821.72
+Saturday,East Chelsea,0,30320.07
+Saturday,East Chelsea,1,20404.29
+Saturday,East Chelsea,2,18348.86
+Saturday,East Chelsea,3,15632.35
+Saturday,East Chelsea,4,11763.26
+Saturday,East Chelsea,5,9310.16
+Saturday,East Chelsea,6,8538.72
+Saturday,East Chelsea,7,9029.34
+Saturday,East Chelsea,8,9905.63
+Saturday,East Chelsea,9,15710.1
+Saturday,East Chelsea,10,19028.56
+Saturday,East Chelsea,11,25082.06
+Saturday,East Chelsea,12,26195.19
+Saturday,East Chelsea,13,27662.11
+Saturday,East Chelsea,14,30853.579999999998
+Saturday,East Chelsea,15,30526.56
+Saturday,East Chelsea,16,34561.07
+Saturday,East Chelsea,17,40573.89
+Saturday,East Chelsea,18,48896.3
+Saturday,East Chelsea,19,42522.24
+Saturday,East Chelsea,20,37682.03
+Saturday,East Chelsea,21,42241.71
+Saturday,East Chelsea,22,49241.85
+Saturday,East Chelsea,23,46103.11
+Saturday,East Village,0,87212.56
+Saturday,East Village,1,87394.2
+Saturday,East Village,2,68272.51
+Saturday,East Village,3,44834.98
+Saturday,East Village,4,19704.42
+Saturday,East Village,5,10477.4
+Saturday,East Village,6,8768.47
+Saturday,East Village,7,7840.82
+Saturday,East Village,8,9650.15
+Saturday,East Village,9,12856.53
+Saturday,East Village,10,18013.28
+Saturday,East Village,11,17802.4
+Saturday,East Village,12,23519.63
+Saturday,East Village,13,26429.76
+Saturday,East Village,14,27141.5
+Saturday,East Village,15,30293.08
+Saturday,East Village,16,35761.38
+Saturday,East Village,17,43384.43
+Saturday,East Village,18,53296.29
+Saturday,East Village,19,64071.89
+Saturday,East Village,20,62812.71
+Saturday,East Village,21,75360.02
+Saturday,East Village,22,90453.16
+Saturday,East Village,23,106972.52
+Saturday,JFK Airport,0,91340.95
+Saturday,JFK Airport,1,29786.17
+Saturday,JFK Airport,2,14730.97
+Saturday,JFK Airport,3,12719.52
+Saturday,JFK Airport,4,6530.67
+Saturday,JFK Airport,5,27531.85
+Saturday,JFK Airport,6,61232.62
+Saturday,JFK Airport,7,74210.02
+Saturday,JFK Airport,8,58121.29
+Saturday,JFK Airport,9,66520.23
+Saturday,JFK Airport,10,72715.77
+Saturday,JFK Airport,11,72572.82
+Saturday,JFK Airport,12,87814.1
+Saturday,JFK Airport,13,92125.9
+Saturday,JFK Airport,14,113674.98
+Saturday,JFK Airport,15,139944.28
+Saturday,JFK Airport,16,173798.61
+Saturday,JFK Airport,17,132474.88
+Saturday,JFK Airport,18,109613.46
+Saturday,JFK Airport,19,131993.4
+Saturday,JFK Airport,20,144812.24
+Saturday,JFK Airport,21,144633.24
+Saturday,JFK Airport,22,152166.33
+Saturday,JFK Airport,23,150321.29
+Saturday,LaGuardia Airport,0,37908.48
+Saturday,LaGuardia Airport,1,9613.35
+Saturday,LaGuardia Airport,2,2584.3
+Saturday,LaGuardia Airport,3,450.64
+Saturday,LaGuardia Airport,4,794.28
+Saturday,LaGuardia Airport,5,946.73
+Saturday,LaGuardia Airport,6,1459.69
+Saturday,LaGuardia Airport,7,4371.67
+Saturday,LaGuardia Airport,8,18892.26
+Saturday,LaGuardia Airport,9,51491.34
+Saturday,LaGuardia Airport,10,48496.65
+Saturday,LaGuardia Airport,11,40262.15
+Saturday,LaGuardia Airport,12,62524.99
+Saturday,LaGuardia Airport,13,55886.5
+Saturday,LaGuardia Airport,14,77546.29
+Saturday,LaGuardia Airport,15,72338.7
+Saturday,LaGuardia Airport,16,75586.99
+Saturday,LaGuardia Airport,17,59740.91
+Saturday,LaGuardia Airport,18,66552.3
+Saturday,LaGuardia Airport,19,62074.02
+Saturday,LaGuardia Airport,20,52872.4
+Saturday,LaGuardia Airport,21,48779.55
+Saturday,LaGuardia Airport,22,47259.94
+Saturday,LaGuardia Airport,23,49039.78
+Saturday,Lower East Side,0,84283.86
+Saturday,Lower East Side,1,89522.31
+Saturday,Lower East Side,2,71031.34
+Saturday,Lower East Side,3,44505.41
+Saturday,Lower East Side,4,22387.87
+Saturday,Lower East Side,5,8265.06
+Saturday,Lower East Side,6,6978.13
+Saturday,Lower East Side,7,5797.08
+Saturday,Lower East Side,8,7630.65
+Saturday,Lower East Side,9,9023.62
+Saturday,Lower East Side,10,12271.0
+Saturday,Lower East Side,11,14193.95
+Saturday,Lower East Side,12,17769.23
+Saturday,Lower East Side,13,19982.99
+Saturday,Lower East Side,14,22249.22
+Saturday,Lower East Side,15,25177.16
+Saturday,Lower East Side,16,25593.68
+Saturday,Lower East Side,17,31009.3
+Saturday,Lower East Side,18,35442.67
+Saturday,Lower East Side,19,42327.72
+Saturday,Lower East Side,20,42408.08
+Saturday,Lower East Side,21,46754.23
+Saturday,Lower East Side,22,61787.72
+Saturday,Lower East Side,23,84670.46
+Saturday,Times Sq/Theatre District,0,35695.2
+Saturday,Times Sq/Theatre District,1,28221.39
+Saturday,Times Sq/Theatre District,2,19853.21
+Saturday,Times Sq/Theatre District,3,15487.53
+Saturday,Times Sq/Theatre District,4,14732.97
+Saturday,Times Sq/Theatre District,5,9774.94
+Saturday,Times Sq/Theatre District,6,9931.04
+Saturday,Times Sq/Theatre District,7,11438.93
+Saturday,Times Sq/Theatre District,8,13882.06
+Saturday,Times Sq/Theatre District,9,19475.17
+Saturday,Times Sq/Theatre District,10,25065.11
+Saturday,Times Sq/Theatre District,11,26203.51
+Saturday,Times Sq/Theatre District,12,26476.93
+Saturday,Times Sq/Theatre District,13,26544.33
+Saturday,Times Sq/Theatre District,14,26590.42
+Saturday,Times Sq/Theatre District,15,29332.13
+Saturday,Times Sq/Theatre District,16,53774.74
+Saturday,Times Sq/Theatre District,17,46266.75
+Saturday,Times Sq/Theatre District,18,41211.84
+Saturday,Times Sq/Theatre District,19,41422.86
+Saturday,Times Sq/Theatre District,20,32266.53
+Saturday,Times Sq/Theatre District,21,40748.89
+Saturday,Times Sq/Theatre District,22,88532.77
+Saturday,Times Sq/Theatre District,23,62256.8
+Saturday,TriBeCa/Civic Center,0,36613.36
+Saturday,TriBeCa/Civic Center,1,29033.17
+Saturday,TriBeCa/Civic Center,2,17072.69
+Saturday,TriBeCa/Civic Center,3,11601.22
+Saturday,TriBeCa/Civic Center,4,10242.18
+Saturday,TriBeCa/Civic Center,5,8813.85
+Saturday,TriBeCa/Civic Center,6,8681.66
+Saturday,TriBeCa/Civic Center,7,8567.23
+Saturday,TriBeCa/Civic Center,8,10911.1
+Saturday,TriBeCa/Civic Center,9,16707.7
+Saturday,TriBeCa/Civic Center,10,21647.6
+Saturday,TriBeCa/Civic Center,11,25125.93
+Saturday,TriBeCa/Civic Center,12,28194.9
+Saturday,TriBeCa/Civic Center,13,29952.66
+Saturday,TriBeCa/Civic Center,14,31407.36
+Saturday,TriBeCa/Civic Center,15,33802.5
+Saturday,TriBeCa/Civic Center,16,33613.09
+Saturday,TriBeCa/Civic Center,17,41660.87
+Saturday,TriBeCa/Civic Center,18,44680.36
+Saturday,TriBeCa/Civic Center,19,48827.51
+Saturday,TriBeCa/Civic Center,20,40820.48
+Saturday,TriBeCa/Civic Center,21,41234.95
+Saturday,TriBeCa/Civic Center,22,50813.66
+Saturday,TriBeCa/Civic Center,23,59778.42
+Saturday,West Village,0,58375.8
+Saturday,West Village,1,49204.88
+Saturday,West Village,2,34030.02
+Saturday,West Village,3,21580.36
+Saturday,West Village,4,12263.91
+Saturday,West Village,5,7649.42
+Saturday,West Village,6,6631.17
+Saturday,West Village,7,6126.62
+Saturday,West Village,8,7565.97
+Saturday,West Village,9,8928.26
+Saturday,West Village,10,11118.78
+Saturday,West Village,11,15207.7
+Saturday,West Village,12,18498.56
+Saturday,West Village,13,20165.12
+Saturday,West Village,14,22836.57
+Saturday,West Village,15,26697.77
+Saturday,West Village,16,30383.42
+Saturday,West Village,17,39349.94
+Saturday,West Village,18,46809.97
+Saturday,West Village,19,55480.41
+Saturday,West Village,20,49492.49
+Saturday,West Village,21,60447.49
+Saturday,West Village,22,72592.55
+Saturday,West Village,23,86897.39
+Saturday,Williamsburg (North Side),0,47840.83
+Saturday,Williamsburg (North Side),1,40990.5
+Saturday,Williamsburg (North Side),2,28484.46
+Saturday,Williamsburg (North Side),3,19287.67
+Saturday,Williamsburg (North Side),4,8999.44
+Saturday,Williamsburg (North Side),5,6752.16
+Saturday,Williamsburg (North Side),6,6401.72
+Saturday,Williamsburg (North Side),7,7397.7
+Saturday,Williamsburg (North Side),8,7942.13
+Saturday,Williamsburg (North Side),9,11076.67
+Saturday,Williamsburg (North Side),10,14729.28
+Saturday,Williamsburg (North Side),11,17345.68
+Saturday,Williamsburg (North Side),12,20756.97
+Saturday,Williamsburg (North Side),13,23348.83
+Saturday,Williamsburg (North Side),14,26588.64
+Saturday,Williamsburg (North Side),15,30311.61
+Saturday,Williamsburg (North Side),16,35832.78
+Saturday,Williamsburg (North Side),17,45174.35
+Saturday,Williamsburg (North Side),18,49903.65
+Saturday,Williamsburg (North Side),19,47731.73
+Saturday,Williamsburg (North Side),20,43067.48
+Saturday,Williamsburg (North Side),21,47706.37
+Saturday,Williamsburg (North Side),22,60040.22
+Saturday,Williamsburg (North Side),23,76380.84
+Sunday,Bushwick South,0,46945.02
+Sunday,Bushwick South,1,40777.1
+Sunday,Bushwick South,2,39187.02
+Sunday,Bushwick South,3,30139.31
+Sunday,Bushwick South,4,19328.62
+Sunday,Bushwick South,5,12738.9
+Sunday,Bushwick South,6,13097.48
+Sunday,Bushwick South,7,13528.58
+Sunday,Bushwick South,8,13765.56
+Sunday,Bushwick South,9,15993.68
+Sunday,Bushwick South,10,18759.11
+Sunday,Bushwick South,11,18392.6
+Sunday,Bushwick South,12,21573.04
+Sunday,Bushwick South,13,23068.62
+Sunday,Bushwick South,14,24282.62
+Sunday,Bushwick South,15,23603.58
+Sunday,Bushwick South,16,22304.329999999998
+Sunday,Bushwick South,17,24103.95
+Sunday,Bushwick South,18,26317.04
+Sunday,Bushwick South,19,21351.75
+Sunday,Bushwick South,20,19501.2
+Sunday,Bushwick South,21,20558.19
+Sunday,Bushwick South,22,23300.78
+Sunday,Bushwick South,23,20071.35
+Sunday,Clinton East,0,42996.25
+Sunday,Clinton East,1,37700.33
+Sunday,Clinton East,2,34587.17
+Sunday,Clinton East,3,28974.99
+Sunday,Clinton East,4,22786.12
+Sunday,Clinton East,5,13312.89
+Sunday,Clinton East,6,10819.4
+Sunday,Clinton East,7,11676.48
+Sunday,Clinton East,8,13637.28
+Sunday,Clinton East,9,15907.11
+Sunday,Clinton East,10,19837.27
+Sunday,Clinton East,11,24009.19
+Sunday,Clinton East,12,23237.3
+Sunday,Clinton East,13,25591.26
+Sunday,Clinton East,14,27743.32
+Sunday,Clinton East,15,26743.63
+Sunday,Clinton East,16,29122.55
+Sunday,Clinton East,17,32158.44
+Sunday,Clinton East,18,31076.24
+Sunday,Clinton East,19,26274.86
+Sunday,Clinton East,20,20818.67
+Sunday,Clinton East,21,22841.77
+Sunday,Clinton East,22,23141.57
+Sunday,Clinton East,23,18653.39
+Sunday,Crown Heights North,0,36591.07
+Sunday,Crown Heights North,1,26156.25
+Sunday,Crown Heights North,2,17484.9
+Sunday,Crown Heights North,3,12667.88
+Sunday,Crown Heights North,4,11770.7
+Sunday,Crown Heights North,5,12019.96
+Sunday,Crown Heights North,6,13890.69
+Sunday,Crown Heights North,7,14112.89
+Sunday,Crown Heights North,8,16042.21
+Sunday,Crown Heights North,9,19241.29
+Sunday,Crown Heights North,10,22493.71
+Sunday,Crown Heights North,11,26540.71
+Sunday,Crown Heights North,12,26975.67
+Sunday,Crown Heights North,13,30220.64
+Sunday,Crown Heights North,14,30543.17
+Sunday,Crown Heights North,15,28584.24
+Sunday,Crown Heights North,16,27945.01
+Sunday,Crown Heights North,17,29200.45
+Sunday,Crown Heights North,18,30283.11
+Sunday,Crown Heights North,19,27418.87
+Sunday,Crown Heights North,20,23339.68
+Sunday,Crown Heights North,21,23361.48
+Sunday,Crown Heights North,22,23921.81
+Sunday,Crown Heights North,23,21525.61
+Sunday,East Chelsea,0,34781.2
+Sunday,East Chelsea,1,22623.36
+Sunday,East Chelsea,2,17266.93
+Sunday,East Chelsea,3,17072.45
+Sunday,East Chelsea,4,12644.05
+Sunday,East Chelsea,5,8344.25
+Sunday,East Chelsea,6,7213.36
+Sunday,East Chelsea,7,8151.37
+Sunday,East Chelsea,8,11426.95
+Sunday,East Chelsea,9,14288.12
+Sunday,East Chelsea,10,18339.6
+Sunday,East Chelsea,11,26827.3
+Sunday,East Chelsea,12,29848.28
+Sunday,East Chelsea,13,31594.95
+Sunday,East Chelsea,14,33623.88
+Sunday,East Chelsea,15,34510.26
+Sunday,East Chelsea,16,34756.06
+Sunday,East Chelsea,17,35701.9
+Sunday,East Chelsea,18,35325.93
+Sunday,East Chelsea,19,26858.16
+Sunday,East Chelsea,20,24985.14
+Sunday,East Chelsea,21,22242.91
+Sunday,East Chelsea,22,21748.64
+Sunday,East Chelsea,23,18405.91
+Sunday,East Village,0,112096.95
+Sunday,East Village,1,100365.89
+Sunday,East Village,2,85950.85
+Sunday,East Village,3,53168.81
+Sunday,East Village,4,22948.71
+Sunday,East Village,5,10921.31
+Sunday,East Village,6,9157.36
+Sunday,East Village,7,7769.25
+Sunday,East Village,8,10467.52
+Sunday,East Village,9,13128.61
+Sunday,East Village,10,16946.54
+Sunday,East Village,11,22648.08
+Sunday,East Village,12,25040.41
+Sunday,East Village,13,28952.99
+Sunday,East Village,14,30280.78
+Sunday,East Village,15,27792.35
+Sunday,East Village,16,27807.07
+Sunday,East Village,17,29468.67
+Sunday,East Village,18,33907.52
+Sunday,East Village,19,33181.45
+Sunday,East Village,20,30203.25
+Sunday,East Village,21,34816.6
+Sunday,East Village,22,31880.97
+Sunday,East Village,23,26306.85
+Sunday,JFK Airport,0,98982.29
+Sunday,JFK Airport,1,27697.670000000002
+Sunday,JFK Airport,2,11548.59
+Sunday,JFK Airport,3,3933.08
+Sunday,JFK Airport,4,8274.03
+Sunday,JFK Airport,5,30633.57
+Sunday,JFK Airport,6,58853.74
+Sunday,JFK Airport,7,73022.04
+Sunday,JFK Airport,8,55411.9
+Sunday,JFK Airport,9,70143.9
+Sunday,JFK Airport,10,93006.06
+Sunday,JFK Airport,11,80425.32
+Sunday,JFK Airport,12,110751.58
+Sunday,JFK Airport,13,117462.0
+Sunday,JFK Airport,14,146645.03
+Sunday,JFK Airport,15,189057.44
+Sunday,JFK Airport,16,211220.46
+Sunday,JFK Airport,17,165399.46
+Sunday,JFK Airport,18,153823.1
+Sunday,JFK Airport,19,194138.75
+Sunday,JFK Airport,20,182420.56
+Sunday,JFK Airport,21,220504.01
+Sunday,JFK Airport,22,198540.01
+Sunday,JFK Airport,23,188853.98
+Sunday,LaGuardia Airport,0,19763.89
+Sunday,LaGuardia Airport,1,7853.09
+Sunday,LaGuardia Airport,2,2617.82
+Sunday,LaGuardia Airport,3,1606.91
+Sunday,LaGuardia Airport,4,590.55
+Sunday,LaGuardia Airport,5,846.12
+Sunday,LaGuardia Airport,6,1014.0400000000001
+Sunday,LaGuardia Airport,7,4866.6
+Sunday,LaGuardia Airport,8,17419.43
+Sunday,LaGuardia Airport,9,46433.39
+Sunday,LaGuardia Airport,10,66815.88
+Sunday,LaGuardia Airport,11,64591.51
+Sunday,LaGuardia Airport,12,75855.68
+Sunday,LaGuardia Airport,13,86442.77
+Sunday,LaGuardia Airport,14,115178.52
+Sunday,LaGuardia Airport,15,110490.4
+Sunday,LaGuardia Airport,16,116873.48
+Sunday,LaGuardia Airport,17,112817.6
+Sunday,LaGuardia Airport,18,114701.93
+Sunday,LaGuardia Airport,19,122538.95
+Sunday,LaGuardia Airport,20,121467.6
+Sunday,LaGuardia Airport,21,114206.07
+Sunday,LaGuardia Airport,22,126885.82
+Sunday,LaGuardia Airport,23,141703.86
+Sunday,Lower East Side,0,110597.7
+Sunday,Lower East Side,1,106134.55
+Sunday,Lower East Side,2,85594.41
+Sunday,Lower East Side,3,55355.36
+Sunday,Lower East Side,4,26733.51
+Sunday,Lower East Side,5,11377.13
+Sunday,Lower East Side,6,8017.95
+Sunday,Lower East Side,7,6815.29
+Sunday,Lower East Side,8,7579.71
+Sunday,Lower East Side,9,11082.82
+Sunday,Lower East Side,10,13187.93
+Sunday,Lower East Side,11,18214.37
+Sunday,Lower East Side,12,18802.51
+Sunday,Lower East Side,13,21777.24
+Sunday,Lower East Side,14,21091.5
+Sunday,Lower East Side,15,23046.68
+Sunday,Lower East Side,16,20242.69
+Sunday,Lower East Side,17,21377.99
+Sunday,Lower East Side,18,23515.43
+Sunday,Lower East Side,19,20023.95
+Sunday,Lower East Side,20,20291.29
+Sunday,Lower East Side,21,25665.24
+Sunday,Lower East Side,22,22700.17
+Sunday,Lower East Side,23,20613.09
+Sunday,Times Sq/Theatre District,0,44934.98
+Sunday,Times Sq/Theatre District,1,29256.44
+Sunday,Times Sq/Theatre District,2,21941.5
+Sunday,Times Sq/Theatre District,3,20830.24
+Sunday,Times Sq/Theatre District,4,20068.75
+Sunday,Times Sq/Theatre District,5,13375.52
+Sunday,Times Sq/Theatre District,6,13255.13
+Sunday,Times Sq/Theatre District,7,16283.25
+Sunday,Times Sq/Theatre District,8,19665.23
+Sunday,Times Sq/Theatre District,9,24497.48
+Sunday,Times Sq/Theatre District,10,30953.5
+Sunday,Times Sq/Theatre District,11,38054.87
+Sunday,Times Sq/Theatre District,12,36013.46
+Sunday,Times Sq/Theatre District,13,31963.91
+Sunday,Times Sq/Theatre District,14,35556.11
+Sunday,Times Sq/Theatre District,15,35539.3
+Sunday,Times Sq/Theatre District,16,43613.34
+Sunday,Times Sq/Theatre District,17,48287.04
+Sunday,Times Sq/Theatre District,18,36522.18
+Sunday,Times Sq/Theatre District,19,26499.92
+Sunday,Times Sq/Theatre District,20,22964.83
+Sunday,Times Sq/Theatre District,21,34977.13
+Sunday,Times Sq/Theatre District,22,30130.27
+Sunday,Times Sq/Theatre District,23,21058.64
+Sunday,Williamsburg (North Side),0,67842.44
+Sunday,Williamsburg (North Side),1,50772.11
+Sunday,Williamsburg (North Side),2,39012.78
+Sunday,Williamsburg (North Side),3,25143.97
+Sunday,Williamsburg (North Side),4,12247.56
+Sunday,Williamsburg (North Side),5,6254.71
+Sunday,Williamsburg (North Side),6,7319.47
+Sunday,Williamsburg (North Side),7,7127.73
+Sunday,Williamsburg (North Side),8,7095.92
+Sunday,Williamsburg (North Side),9,10250.1
+Sunday,Williamsburg (North Side),10,14747.6
+Sunday,Williamsburg (North Side),11,20218.27
+Sunday,Williamsburg (North Side),12,21663.49
+Sunday,Williamsburg (North Side),13,29811.28
+Sunday,Williamsburg (North Side),14,28262.67
+Sunday,Williamsburg (North Side),15,29255.8
+Sunday,Williamsburg (North Side),16,31249.24
+Sunday,Williamsburg (North Side),17,28999.4
+Sunday,Williamsburg (North Side),18,30781.03
+Sunday,Williamsburg (North Side),19,25272.91
+Sunday,Williamsburg (North Side),20,23181.28
+Sunday,Williamsburg (North Side),21,23581.74
+Sunday,Williamsburg (North Side),22,21953.39
+Sunday,Williamsburg (North Side),23,18305.63
+Thursday,East Chelsea,0,13102.0
+Thursday,East Chelsea,1,6401.54
+Thursday,East Chelsea,2,4730.06
+Thursday,East Chelsea,3,4410.58
+Thursday,East Chelsea,4,6692.01
+Thursday,East Chelsea,5,10360.97
+Thursday,East Chelsea,6,12960.84
+Thursday,East Chelsea,7,18572.16
+Thursday,East Chelsea,8,27099.26
+Thursday,East Chelsea,9,25280.41
+Thursday,East Chelsea,10,20444.74
+Thursday,East Chelsea,11,24146.85
+Thursday,East Chelsea,12,25117.91
+Thursday,East Chelsea,13,25115.82
+Thursday,East Chelsea,14,31044.25
+Thursday,East Chelsea,15,34144.71
+Thursday,East Chelsea,16,33115.3
+Thursday,East Chelsea,17,41629.99
+Thursday,East Chelsea,18,40648.35
+Thursday,East Chelsea,19,40991.08
+Thursday,East Chelsea,20,44673.48
+Thursday,East Chelsea,21,59749.9
+Thursday,East Chelsea,22,53104.39
+Thursday,East Chelsea,23,37237.54
+Thursday,JFK Airport,0,102941.23
+Thursday,JFK Airport,1,24815.15
+Thursday,JFK Airport,2,16282.88
+Thursday,JFK Airport,3,17460.07
+Thursday,JFK Airport,4,6761.02
+Thursday,JFK Airport,5,36618.69
+Thursday,JFK Airport,6,75635.46
+Thursday,JFK Airport,7,81630.48
+Thursday,JFK Airport,8,60585.17
+Thursday,JFK Airport,9,57539.36
+Thursday,JFK Airport,10,75754.78
+Thursday,JFK Airport,11,70521.05
+Thursday,JFK Airport,12,73753.49
+Thursday,JFK Airport,13,85543.16
+Thursday,JFK Airport,14,117777.82
+Thursday,JFK Airport,15,152224.64
+Thursday,JFK Airport,16,154893.21
+Thursday,JFK Airport,17,145652.0
+Thursday,JFK Airport,18,126401.15
+Thursday,JFK Airport,19,156682.58
+Thursday,JFK Airport,20,155989.46
+Thursday,JFK Airport,21,163937.68
+Thursday,JFK Airport,22,169926.37
+Thursday,JFK Airport,23,183087.73
+Thursday,LaGuardia Airport,0,32506.1
+Thursday,LaGuardia Airport,1,4489.79
+Thursday,LaGuardia Airport,2,3101.89
+Thursday,LaGuardia Airport,3,1228.33
+Thursday,LaGuardia Airport,4,807.21
+Thursday,LaGuardia Airport,5,1781.54
+Thursday,LaGuardia Airport,6,1929.45
+Thursday,LaGuardia Airport,7,19611.8
+Thursday,LaGuardia Airport,8,52475.62
+Thursday,LaGuardia Airport,9,88544.21
+Thursday,LaGuardia Airport,10,99677.03
+Thursday,LaGuardia Airport,11,75879.15
+Thursday,LaGuardia Airport,12,85624.64
+Thursday,LaGuardia Airport,13,73865.18
+Thursday,LaGuardia Airport,14,122801.54
+Thursday,LaGuardia Airport,15,117032.8
+Thursday,LaGuardia Airport,16,102283.98
+Thursday,LaGuardia Airport,17,113394.77
+Thursday,LaGuardia Airport,18,142935.98
+Thursday,LaGuardia Airport,19,143758.32
+Thursday,LaGuardia Airport,20,127631.54
+Thursday,LaGuardia Airport,21,113260.49
+Thursday,LaGuardia Airport,22,120460.09
+Thursday,LaGuardia Airport,23,116627.87
+Thursday,Midtown Center,0,20063.77
+Thursday,Midtown Center,1,10433.09
+Thursday,Midtown Center,2,5908.27
+Thursday,Midtown Center,3,4272.45
+Thursday,Midtown Center,4,4280.86
+Thursday,Midtown Center,5,5906.92
+Thursday,Midtown Center,6,6991.08
+Thursday,Midtown Center,7,10668.65
+Thursday,Midtown Center,8,15456.67
+Thursday,Midtown Center,9,17551.28
+Thursday,Midtown Center,10,23565.45
+Thursday,Midtown Center,11,28635.06
+Thursday,Midtown Center,12,36629.32
+Thursday,Midtown Center,13,45408.65
+Thursday,Midtown Center,14,50397.09
+Thursday,Midtown Center,15,57614.06
+Thursday,Midtown Center,16,62333.55
+Thursday,Midtown Center,17,77113.76
+Thursday,Midtown Center,18,72233.7
+Thursday,Midtown Center,19,80685.74
+Thursday,Midtown Center,20,105461.85
+Thursday,Midtown Center,21,106058.95
+Thursday,Midtown Center,22,78574.93
+Thursday,Midtown Center,23,47249.65
+Thursday,Midtown East,0,12141.72
+Thursday,Midtown East,1,7538.9
+Thursday,Midtown East,2,3699.97
+Thursday,Midtown East,3,2734.2400000000002
+Thursday,Midtown East,4,4050.1
+Thursday,Midtown East,5,4804.33
+Thursday,Midtown East,6,7168.89
+Thursday,Midtown East,7,11109.09
+Thursday,Midtown East,8,16143.19
+Thursday,Midtown East,9,15643.88
+Thursday,Midtown East,10,17134.66
+Thursday,Midtown East,11,21238.18
+Thursday,Midtown East,12,23473.2
+Thursday,Midtown East,13,27026.34
+Thursday,Midtown East,14,31881.07
+Thursday,Midtown East,15,35184.9
+Thursday,Midtown East,16,35081.75
+Thursday,Midtown East,17,49382.45
+Thursday,Midtown East,18,45278.42
+Thursday,Midtown East,19,49112.13
+Thursday,Midtown East,20,73351.17
+Thursday,Midtown East,21,59078.03
+Thursday,Midtown East,22,44908.34
+Thursday,Midtown East,23,29354.58
+Thursday,Midtown South,0,16764.57
+Thursday,Midtown South,1,10095.69
+Thursday,Midtown South,2,8048.34
+Thursday,Midtown South,3,5559.5199999999995
+Thursday,Midtown South,4,8184.44
+Thursday,Midtown South,5,8269.15
+Thursday,Midtown South,6,10223.51
+Thursday,Midtown South,7,16521.84
+Thursday,Midtown South,8,21470.0
+Thursday,Midtown South,9,20063.94
+Thursday,Midtown South,10,18191.51
+Thursday,Midtown South,11,20671.68
+Thursday,Midtown South,12,23522.25
+Thursday,Midtown South,13,25655.51
+Thursday,Midtown South,14,29038.04
+Thursday,Midtown South,15,32455.48
+Thursday,Midtown South,16,32701.55
+Thursday,Midtown South,17,40115.56
+Thursday,Midtown South,18,35899.16
+Thursday,Midtown South,19,37096.14
+Thursday,Midtown South,20,42816.34
+Thursday,Midtown South,21,49631.33
+Thursday,Midtown South,22,46178.3
+Thursday,Midtown South,23,40188.45
+Thursday,Times Sq/Theatre District,0,24564.78
+Thursday,Times Sq/Theatre District,1,13508.37
+Thursday,Times Sq/Theatre District,2,7883.59
+Thursday,Times Sq/Theatre District,3,9339.14
+Thursday,Times Sq/Theatre District,4,11167.34
+Thursday,Times Sq/Theatre District,5,10393.62
+Thursday,Times Sq/Theatre District,6,12461.82
+Thursday,Times Sq/Theatre District,7,19561.05
+Thursday,Times Sq/Theatre District,8,26676.25
+Thursday,Times Sq/Theatre District,9,27662.4
+Thursday,Times Sq/Theatre District,10,28775.29
+Thursday,Times Sq/Theatre District,11,29090.52
+Thursday,Times Sq/Theatre District,12,33060.89
+Thursday,Times Sq/Theatre District,13,33270.98
+Thursday,Times Sq/Theatre District,14,35090.11
+Thursday,Times Sq/Theatre District,15,40180.42
+Thursday,Times Sq/Theatre District,16,44531.01
+Thursday,Times Sq/Theatre District,17,46708.91
+Thursday,Times Sq/Theatre District,18,44232.47
+Thursday,Times Sq/Theatre District,19,49468.02
+Thursday,Times Sq/Theatre District,20,69945.41
+Thursday,Times Sq/Theatre District,21,101950.61
+Thursday,Times Sq/Theatre District,22,76438.86
+Thursday,Times Sq/Theatre District,23,50674.26
+Thursday,TriBeCa/Civic Center,0,12506.22
+Thursday,TriBeCa/Civic Center,1,6642.03
+Thursday,TriBeCa/Civic Center,2,4003.07
+Thursday,TriBeCa/Civic Center,3,4217.85
+Thursday,TriBeCa/Civic Center,4,6914.11
+Thursday,TriBeCa/Civic Center,5,10880.07
+Thursday,TriBeCa/Civic Center,6,16441.24
+Thursday,TriBeCa/Civic Center,7,26320.55
+Thursday,TriBeCa/Civic Center,8,31623.23
+Thursday,TriBeCa/Civic Center,9,26569.29
+Thursday,TriBeCa/Civic Center,10,24990.49
+Thursday,TriBeCa/Civic Center,11,26037.02
+Thursday,TriBeCa/Civic Center,12,25817.1
+Thursday,TriBeCa/Civic Center,13,28311.56
+Thursday,TriBeCa/Civic Center,14,31423.62
+Thursday,TriBeCa/Civic Center,15,34546.2
+Thursday,TriBeCa/Civic Center,16,39666.75
+Thursday,TriBeCa/Civic Center,17,53663.52
+Thursday,TriBeCa/Civic Center,18,49998.67
+Thursday,TriBeCa/Civic Center,19,43482.56
+Thursday,TriBeCa/Civic Center,20,47436.4
+Thursday,TriBeCa/Civic Center,21,48768.34
+Thursday,TriBeCa/Civic Center,22,48125.15
+Thursday,TriBeCa/Civic Center,23,35922.6
+Thursday,Union Sq,0,14707.36
+Thursday,Union Sq,1,7091.21
+Thursday,Union Sq,2,4223.31
+Thursday,Union Sq,3,2857.82
+Thursday,Union Sq,4,5048.87
+Thursday,Union Sq,5,6200.1
+Thursday,Union Sq,6,9403.08
+Thursday,Union Sq,7,14580.88
+Thursday,Union Sq,8,19990.57
+Thursday,Union Sq,9,16984.88
+Thursday,Union Sq,10,15886.63
+Thursday,Union Sq,11,19327.96
+Thursday,Union Sq,12,20959.09
+Thursday,Union Sq,13,24846.46
+Thursday,Union Sq,14,28525.58
+Thursday,Union Sq,15,33855.05
+Thursday,Union Sq,16,35529.8
+Thursday,Union Sq,17,45076.74
+Thursday,Union Sq,18,42629.76
+Thursday,Union Sq,19,43659.99
+Thursday,Union Sq,20,50555.67
+Thursday,Union Sq,21,58255.34
+Thursday,Union Sq,22,48137.46
+Thursday,Union Sq,23,33805.7
+Thursday,West Chelsea/Hudson Yards,0,10563.53
+Thursday,West Chelsea/Hudson Yards,1,6857.45
+Thursday,West Chelsea/Hudson Yards,2,7262.2699999999995
+Thursday,West Chelsea/Hudson Yards,3,6348.98
+Thursday,West Chelsea/Hudson Yards,4,4637.18
+Thursday,West Chelsea/Hudson Yards,5,4619.59
+Thursday,West Chelsea/Hudson Yards,6,9355.87
+Thursday,West Chelsea/Hudson Yards,7,16003.94
+Thursday,West Chelsea/Hudson Yards,8,24511.84
+Thursday,West Chelsea/Hudson Yards,9,19919.62
+Thursday,West Chelsea/Hudson Yards,10,16056.1
+Thursday,West Chelsea/Hudson Yards,11,16592.62
+Thursday,West Chelsea/Hudson Yards,12,19044.55
+Thursday,West Chelsea/Hudson Yards,13,21487.79
+Thursday,West Chelsea/Hudson Yards,14,25649.65
+Thursday,West Chelsea/Hudson Yards,15,31647.29
+Thursday,West Chelsea/Hudson Yards,16,38916.79
+Thursday,West Chelsea/Hudson Yards,17,49577.01
+Thursday,West Chelsea/Hudson Yards,18,54724.81
+Thursday,West Chelsea/Hudson Yards,19,45086.7
+Thursday,West Chelsea/Hudson Yards,20,47989.76
+Thursday,West Chelsea/Hudson Yards,21,49256.54
+Thursday,West Chelsea/Hudson Yards,22,45340.34
+Thursday,West Chelsea/Hudson Yards,23,25465.21
+Tuesday,East Chelsea,0,25905.21
+Tuesday,East Chelsea,1,6890.41
+Tuesday,East Chelsea,2,4951.21
+Tuesday,East Chelsea,3,4909.29
+Tuesday,East Chelsea,4,6878.7
+Tuesday,East Chelsea,5,10893.52
+Tuesday,East Chelsea,6,16155.93
+Tuesday,East Chelsea,7,25054.37
+Tuesday,East Chelsea,8,33958.88
+Tuesday,East Chelsea,9,29963.38
+Tuesday,East Chelsea,10,29604.43
+Tuesday,East Chelsea,11,29596.49
+Tuesday,East Chelsea,12,27862.77
+Tuesday,East Chelsea,13,30521.04
+Tuesday,East Chelsea,14,33922.13
+Tuesday,East Chelsea,15,35394.44
+Tuesday,East Chelsea,16,34484.02
+Tuesday,East Chelsea,17,54902.28
+Tuesday,East Chelsea,18,49247.93
+Tuesday,East Chelsea,19,43877.62
+Tuesday,East Chelsea,20,49557.13
+Tuesday,East Chelsea,21,59744.34
+Tuesday,East Chelsea,22,43952.35
+Tuesday,East Chelsea,23,27757.44
+Tuesday,JFK Airport,0,179346.59
+Tuesday,JFK Airport,1,66890.4
+Tuesday,JFK Airport,2,25383.14
+Tuesday,JFK Airport,3,17221.61
+Tuesday,JFK Airport,4,14442.6
+Tuesday,JFK Airport,5,49416.36
+Tuesday,JFK Airport,6,109100.92
+Tuesday,JFK Airport,7,136266.6
+Tuesday,JFK Airport,8,92106.99
+Tuesday,JFK Airport,9,91639.5
+Tuesday,JFK Airport,10,120589.4
+Tuesday,JFK Airport,11,102295.8
+Tuesday,JFK Airport,12,109737.76
+Tuesday,JFK Airport,13,122322.43
+Tuesday,JFK Airport,14,139458.39
+Tuesday,JFK Airport,15,171464.03
+Tuesday,JFK Airport,16,222941.12
+Tuesday,JFK Airport,17,171678.95
+Tuesday,JFK Airport,18,131003.58
+Tuesday,JFK Airport,19,153971.71
+Tuesday,JFK Airport,20,165364.61
+Tuesday,JFK Airport,21,173370.48
+Tuesday,JFK Airport,22,175180.75
+Tuesday,JFK Airport,23,182346.79
+Tuesday,LaGuardia Airport,0,60039.0
+Tuesday,LaGuardia Airport,1,17098.72
+Tuesday,LaGuardia Airport,2,6462.51
+Tuesday,LaGuardia Airport,3,3172.22
+Tuesday,LaGuardia Airport,4,3293.18
+Tuesday,LaGuardia Airport,5,2052.44
+Tuesday,LaGuardia Airport,6,4468.44
+Tuesday,LaGuardia Airport,7,45926.6
+Tuesday,LaGuardia Airport,8,82808.38
+Tuesday,LaGuardia Airport,9,121225.62
+Tuesday,LaGuardia Airport,10,125432.59
+Tuesday,LaGuardia Airport,11,96568.23
+Tuesday,LaGuardia Airport,12,116262.8
+Tuesday,LaGuardia Airport,13,90999.22
+Tuesday,LaGuardia Airport,14,126182.5
+Tuesday,LaGuardia Airport,15,117874.71
+Tuesday,LaGuardia Airport,16,128471.88
+Tuesday,LaGuardia Airport,17,109692.82
+Tuesday,LaGuardia Airport,18,133749.24
+Tuesday,LaGuardia Airport,19,131709.8
+Tuesday,LaGuardia Airport,20,111098.19
+Tuesday,LaGuardia Airport,21,110880.61
+Tuesday,LaGuardia Airport,22,110599.96
+Tuesday,LaGuardia Airport,23,95201.75
+Tuesday,Midtown Center,0,16506.91
+Tuesday,Midtown Center,1,9208.85
+Tuesday,Midtown Center,2,5096.95
+Tuesday,Midtown Center,3,3518.8
+Tuesday,Midtown Center,4,4969.33
+Tuesday,Midtown Center,5,4711.14
+Tuesday,Midtown Center,6,7250.83
+Tuesday,Midtown Center,7,11678.33
+Tuesday,Midtown Center,8,17043.25
+Tuesday,Midtown Center,9,19847.64
+Tuesday,Midtown Center,10,24630.62
+Tuesday,Midtown Center,11,32794.28
+Tuesday,Midtown Center,12,35928.07
+Tuesday,Midtown Center,13,39562.22
+Tuesday,Midtown Center,14,47603.97
+Tuesday,Midtown Center,15,53374.94
+Tuesday,Midtown Center,16,58801.73
+Tuesday,Midtown Center,17,81076.18
+Tuesday,Midtown Center,18,80055.05
+Tuesday,Midtown Center,19,91916.95
+Tuesday,Midtown Center,20,118940.71
+Tuesday,Midtown Center,21,115020.8
+Tuesday,Midtown Center,22,71345.86
+Tuesday,Midtown Center,23,41417.04
+Tuesday,Midtown East,0,9436.97
+Tuesday,Midtown East,1,5465.33
+Tuesday,Midtown East,2,2506.05
+Tuesday,Midtown East,3,1804.48
+Tuesday,Midtown East,4,4095.42
+Tuesday,Midtown East,5,5033.77
+Tuesday,Midtown East,6,6955.28
+Tuesday,Midtown East,7,13119.88
+Tuesday,Midtown East,8,19526.64
+Tuesday,Midtown East,9,19728.97
+Tuesday,Midtown East,10,21782.66
+Tuesday,Midtown East,11,27100.67
+Tuesday,Midtown East,12,25031.49
+Tuesday,Midtown East,13,27892.98
+Tuesday,Midtown East,14,31267.26
+Tuesday,Midtown East,15,34981.97
+Tuesday,Midtown East,16,38244.3
+Tuesday,Midtown East,17,52624.86
+Tuesday,Midtown East,18,48445.34
+Tuesday,Midtown East,19,53885.75
+Tuesday,Midtown East,20,84791.13
+Tuesday,Midtown East,21,65936.99
+Tuesday,Midtown East,22,41876.59
+Tuesday,Midtown East,23,22199.58
+Tuesday,Midtown North,0,14629.22
+Tuesday,Midtown North,1,6133.76
+Tuesday,Midtown North,2,6217.04
+Tuesday,Midtown North,3,2881.62
+Tuesday,Midtown North,4,5957.43
+Tuesday,Midtown North,5,5993.4800000000005
+Tuesday,Midtown North,6,9075.54
+Tuesday,Midtown North,7,16331.42
+Tuesday,Midtown North,8,23354.14
+Tuesday,Midtown North,9,24215.93
+Tuesday,Midtown North,10,22075.81
+Tuesday,Midtown North,11,26966.68
+Tuesday,Midtown North,12,26907.56
+Tuesday,Midtown North,13,29359.92
+Tuesday,Midtown North,14,32614.579999999998
+Tuesday,Midtown North,15,35300.03
+Tuesday,Midtown North,16,34032.27
+Tuesday,Midtown North,17,45524.659999999996
+Tuesday,Midtown North,18,48438.15
+Tuesday,Midtown North,19,43565.11
+Tuesday,Midtown North,20,66319.95
+Tuesday,Midtown North,21,55585.37
+Tuesday,Midtown North,22,38444.45
+Tuesday,Midtown North,23,23525.32
+Tuesday,Midtown South,0,20517.53
+Tuesday,Midtown South,1,8615.8
+Tuesday,Midtown South,2,5545.2
+Tuesday,Midtown South,3,6820.29
+Tuesday,Midtown South,4,7721.02
+Tuesday,Midtown South,5,7958.4
+Tuesday,Midtown South,6,11789.16
+Tuesday,Midtown South,7,19860.79
+Tuesday,Midtown South,8,27529.17
+Tuesday,Midtown South,9,25680.26
+Tuesday,Midtown South,10,22838.45
+Tuesday,Midtown South,11,26072.08
+Tuesday,Midtown South,12,24491.97
+Tuesday,Midtown South,13,26753.68
+Tuesday,Midtown South,14,29374.37
+Tuesday,Midtown South,15,32174.91
+Tuesday,Midtown South,16,31429.73
+Tuesday,Midtown South,17,43259.58
+Tuesday,Midtown South,18,42948.47
+Tuesday,Midtown South,19,39944.21
+Tuesday,Midtown South,20,45157.72
+Tuesday,Midtown South,21,46872.74
+Tuesday,Midtown South,22,36517.97
+Tuesday,Midtown South,23,23803.56
+Tuesday,Times Sq/Theatre District,0,23383.95
+Tuesday,Times Sq/Theatre District,1,13346.66
+Tuesday,Times Sq/Theatre District,2,8347.08
+Tuesday,Times Sq/Theatre District,3,10055.19
+Tuesday,Times Sq/Theatre District,4,10540.09
+Tuesday,Times Sq/Theatre District,5,11935.72
+Tuesday,Times Sq/Theatre District,6,13721.59
+Tuesday,Times Sq/Theatre District,7,23622.29
+Tuesday,Times Sq/Theatre District,8,36867.42
+Tuesday,Times Sq/Theatre District,9,36308.26
+Tuesday,Times Sq/Theatre District,10,34971.3
+Tuesday,Times Sq/Theatre District,11,38835.94
+Tuesday,Times Sq/Theatre District,12,38780.25
+Tuesday,Times Sq/Theatre District,13,38487.659999999996
+Tuesday,Times Sq/Theatre District,14,40163.44
+Tuesday,Times Sq/Theatre District,15,41476.71
+Tuesday,Times Sq/Theatre District,16,45099.57
+Tuesday,Times Sq/Theatre District,17,51590.95
+Tuesday,Times Sq/Theatre District,18,52297.93
+Tuesday,Times Sq/Theatre District,19,57094.85
+Tuesday,Times Sq/Theatre District,20,81459.54
+Tuesday,Times Sq/Theatre District,21,124029.66
+Tuesday,Times Sq/Theatre District,22,72132.78
+Tuesday,Times Sq/Theatre District,23,47776.72
+Tuesday,TriBeCa/Civic Center,0,7657.68
+Tuesday,TriBeCa/Civic Center,1,4297.01
+Tuesday,TriBeCa/Civic Center,2,2751.32
+Tuesday,TriBeCa/Civic Center,3,2601.55
+Tuesday,TriBeCa/Civic Center,4,6763.2
+Tuesday,TriBeCa/Civic Center,5,10599.72
+Tuesday,TriBeCa/Civic Center,6,17464.18
+Tuesday,TriBeCa/Civic Center,7,31206.44
+Tuesday,TriBeCa/Civic Center,8,36941.38
+Tuesday,TriBeCa/Civic Center,9,30525.94
+Tuesday,TriBeCa/Civic Center,10,27318.44
+Tuesday,TriBeCa/Civic Center,11,30725.55
+Tuesday,TriBeCa/Civic Center,12,26075.0
+Tuesday,TriBeCa/Civic Center,13,28558.31
+Tuesday,TriBeCa/Civic Center,14,33392.43
+Tuesday,TriBeCa/Civic Center,15,35002.32
+Tuesday,TriBeCa/Civic Center,16,37864.61
+Tuesday,TriBeCa/Civic Center,17,47984.75
+Tuesday,TriBeCa/Civic Center,18,48256.21
+Tuesday,TriBeCa/Civic Center,19,47876.24
+Tuesday,TriBeCa/Civic Center,20,46972.44
+Tuesday,TriBeCa/Civic Center,21,42175.6
+Tuesday,TriBeCa/Civic Center,22,40658.88
+Tuesday,TriBeCa/Civic Center,23,20105.55
+Tuesday,West Chelsea/Hudson Yards,0,8696.6
+Tuesday,West Chelsea/Hudson Yards,1,4078.15
+Tuesday,West Chelsea/Hudson Yards,2,3504.15
+Tuesday,West Chelsea/Hudson Yards,3,2771.99
+Tuesday,West Chelsea/Hudson Yards,4,4564.77
+Tuesday,West Chelsea/Hudson Yards,5,6422.78
+Tuesday,West Chelsea/Hudson Yards,6,10906.95
+Tuesday,West Chelsea/Hudson Yards,7,17794.88
+Tuesday,West Chelsea/Hudson Yards,8,31073.28
+Tuesday,West Chelsea/Hudson Yards,9,24544.68
+Tuesday,West Chelsea/Hudson Yards,10,23029.19
+Tuesday,West Chelsea/Hudson Yards,11,30901.5
+Tuesday,West Chelsea/Hudson Yards,12,33026.25
+Tuesday,West Chelsea/Hudson Yards,13,40942.57
+Tuesday,West Chelsea/Hudson Yards,14,51256.1
+Tuesday,West Chelsea/Hudson Yards,15,64116.26
+Tuesday,West Chelsea/Hudson Yards,16,64139.14
+Tuesday,West Chelsea/Hudson Yards,17,61911.13
+Tuesday,West Chelsea/Hudson Yards,18,54330.6
+Tuesday,West Chelsea/Hudson Yards,19,43822.73
+Tuesday,West Chelsea/Hudson Yards,20,53379.91
+Tuesday,West Chelsea/Hudson Yards,21,46932.74
+Tuesday,West Chelsea/Hudson Yards,22,36665.12
+Tuesday,West Chelsea/Hudson Yards,23,19379.74
+Wednesday,East Chelsea,0,20264.58
+Wednesday,East Chelsea,1,6436.45
+Wednesday,East Chelsea,2,4244.13
+Wednesday,East Chelsea,3,5191.7
+Wednesday,East Chelsea,4,7525.4
+Wednesday,East Chelsea,5,11149.97
+Wednesday,East Chelsea,6,18398.9
+Wednesday,East Chelsea,7,29141.97
+Wednesday,East Chelsea,8,38331.02
+Wednesday,East Chelsea,9,31169.15
+Wednesday,East Chelsea,10,28761.17
+Wednesday,East Chelsea,11,30530.82
+Wednesday,East Chelsea,12,31926.329999999998
+Wednesday,East Chelsea,13,32267.6
+Wednesday,East Chelsea,14,33088.96
+Wednesday,East Chelsea,15,37639.26
+Wednesday,East Chelsea,16,40019.76
+Wednesday,East Chelsea,17,42941.55
+Wednesday,East Chelsea,18,44120.87
+Wednesday,East Chelsea,19,44150.22
+Wednesday,East Chelsea,20,51636.61
+Wednesday,East Chelsea,21,51657.48
+Wednesday,East Chelsea,22,51287.45
+Wednesday,East Chelsea,23,35881.72
+Wednesday,JFK Airport,0,131041.11
+Wednesday,JFK Airport,1,48628.45
+Wednesday,JFK Airport,2,31876.23
+Wednesday,JFK Airport,3,23646.1
+Wednesday,JFK Airport,4,20849.73
+Wednesday,JFK Airport,5,42580.06
+Wednesday,JFK Airport,6,87909.66
+Wednesday,JFK Airport,7,103886.94
+Wednesday,JFK Airport,8,74272.44
+Wednesday,JFK Airport,9,82386.52
+Wednesday,JFK Airport,10,100786.74
+Wednesday,JFK Airport,11,89439.4
+Wednesday,JFK Airport,12,83470.01
+Wednesday,JFK Airport,13,97394.37
+Wednesday,JFK Airport,14,140237.3
+Wednesday,JFK Airport,15,177200.19
+Wednesday,JFK Airport,16,209357.44
+Wednesday,JFK Airport,17,157474.39
+Wednesday,JFK Airport,18,143606.66
+Wednesday,JFK Airport,19,187132.44
+Wednesday,JFK Airport,20,181523.4
+Wednesday,JFK Airport,21,173083.62
+Wednesday,JFK Airport,22,190230.79
+Wednesday,JFK Airport,23,196389.37
+Wednesday,LaGuardia Airport,0,58450.66
+Wednesday,LaGuardia Airport,1,21434.71
+Wednesday,LaGuardia Airport,2,19269.1
+Wednesday,LaGuardia Airport,3,5127.48
+Wednesday,LaGuardia Airport,4,1251.87
+Wednesday,LaGuardia Airport,5,1429.27
+Wednesday,LaGuardia Airport,6,4488.96
+Wednesday,LaGuardia Airport,7,35847.33
+Wednesday,LaGuardia Airport,8,77361.7
+Wednesday,LaGuardia Airport,9,135102.03
+Wednesday,LaGuardia Airport,10,133644.6
+Wednesday,LaGuardia Airport,11,104748.48
+Wednesday,LaGuardia Airport,12,103542.8
+Wednesday,LaGuardia Airport,13,94393.93
+Wednesday,LaGuardia Airport,14,130122.53
+Wednesday,LaGuardia Airport,15,136262.42
+Wednesday,LaGuardia Airport,16,132498.32
+Wednesday,LaGuardia Airport,17,125295.2
+Wednesday,LaGuardia Airport,18,156422.32
+Wednesday,LaGuardia Airport,19,163009.69
+Wednesday,LaGuardia Airport,20,138286.99
+Wednesday,LaGuardia Airport,21,115757.4
+Wednesday,LaGuardia Airport,22,135088.23
+Wednesday,LaGuardia Airport,23,117636.98
+Wednesday,Midtown Center,0,24459.28
+Wednesday,Midtown Center,1,11677.26
+Wednesday,Midtown Center,2,7562.99
+Wednesday,Midtown Center,3,4892.79
+Wednesday,Midtown Center,4,5500.58
+Wednesday,Midtown Center,5,5521.41
+Wednesday,Midtown Center,6,8896.98
+Wednesday,Midtown Center,7,13512.539999999999
+Wednesday,Midtown Center,8,18108.17
+Wednesday,Midtown Center,9,22846.89
+Wednesday,Midtown Center,10,27417.15
+Wednesday,Midtown Center,11,36469.62
+Wednesday,Midtown Center,12,38941.13
+Wednesday,Midtown Center,13,49852.03
+Wednesday,Midtown Center,14,58155.78
+Wednesday,Midtown Center,15,56413.18
+Wednesday,Midtown Center,16,68213.34
+Wednesday,Midtown Center,17,86310.7
+Wednesday,Midtown Center,18,81502.15
+Wednesday,Midtown Center,19,102798.93
+Wednesday,Midtown Center,20,137595.24
+Wednesday,Midtown Center,21,126769.66
+Wednesday,Midtown Center,22,88761.89
+Wednesday,Midtown Center,23,49893.12
+Wednesday,Midtown East,0,13061.34
+Wednesday,Midtown East,1,7876.75
+Wednesday,Midtown East,2,3790.57
+Wednesday,Midtown East,3,2867.27
+Wednesday,Midtown East,4,4693.59
+Wednesday,Midtown East,5,6485.69
+Wednesday,Midtown East,6,7621.5
+Wednesday,Midtown East,7,12709.68
+Wednesday,Midtown East,8,19574.77
+Wednesday,Midtown East,9,18078.93
+Wednesday,Midtown East,10,20321.0
+Wednesday,Midtown East,11,26192.42
+Wednesday,Midtown East,12,26966.49
+Wednesday,Midtown East,13,30804.77
+Wednesday,Midtown East,14,34338.7
+Wednesday,Midtown East,15,38454.48
+Wednesday,Midtown East,16,41455.15
+Wednesday,Midtown East,17,53673.93
+Wednesday,Midtown East,18,51493.39
+Wednesday,Midtown East,19,58709.75
+Wednesday,Midtown East,20,89673.03
+Wednesday,Midtown East,21,73481.72
+Wednesday,Midtown East,22,47479.87
+Wednesday,Midtown East,23,28371.9
+Wednesday,Midtown North,0,17080.84
+Wednesday,Midtown North,1,6484.44
+Wednesday,Midtown North,2,5620.97
+Wednesday,Midtown North,3,3884.8
+Wednesday,Midtown North,4,6022.15
+Wednesday,Midtown North,5,7727.07
+Wednesday,Midtown North,6,11344.32
+Wednesday,Midtown North,7,19099.920000000002
+Wednesday,Midtown North,8,24987.94
+Wednesday,Midtown North,9,21579.21
+Wednesday,Midtown North,10,23865.96
+Wednesday,Midtown North,11,26803.02
+Wednesday,Midtown North,12,27850.420000000002
+Wednesday,Midtown North,13,32222.73
+Wednesday,Midtown North,14,34099.36
+Wednesday,Midtown North,15,34833.39
+Wednesday,Midtown North,16,35721.3
+Wednesday,Midtown North,17,48060.44
+Wednesday,Midtown North,18,48456.99
+Wednesday,Midtown North,19,49517.86
+Wednesday,Midtown North,20,72163.25
+Wednesday,Midtown North,21,57030.06
+Wednesday,Midtown North,22,38901.74
+Wednesday,Midtown North,23,24481.88
+Wednesday,Midtown South,0,18669.16
+Wednesday,Midtown South,1,10409.3
+Wednesday,Midtown South,2,8300.19
+Wednesday,Midtown South,3,6810.34
+Wednesday,Midtown South,4,9755.09
+Wednesday,Midtown South,5,9867.27
+Wednesday,Midtown South,6,13109.45
+Wednesday,Midtown South,7,18793.81
+Wednesday,Midtown South,8,27778.62
+Wednesday,Midtown South,9,27339.27
+Wednesday,Midtown South,10,23731.8
+Wednesday,Midtown South,11,26952.73
+Wednesday,Midtown South,12,28261.02
+Wednesday,Midtown South,13,30678.0
+Wednesday,Midtown South,14,34087.19
+Wednesday,Midtown South,15,34200.72
+Wednesday,Midtown South,16,36296.99
+Wednesday,Midtown South,17,44241.36
+Wednesday,Midtown South,18,42978.96
+Wednesday,Midtown South,19,44773.18
+Wednesday,Midtown South,20,56139.01
+Wednesday,Midtown South,21,53522.09
+Wednesday,Midtown South,22,47214.13
+Wednesday,Midtown South,23,33593.19
+Wednesday,Times Sq/Theatre District,0,27393.34
+Wednesday,Times Sq/Theatre District,1,15574.58
+Wednesday,Times Sq/Theatre District,2,11435.35
+Wednesday,Times Sq/Theatre District,3,12215.33
+Wednesday,Times Sq/Theatre District,4,14447.81
+Wednesday,Times Sq/Theatre District,5,15170.81
+Wednesday,Times Sq/Theatre District,6,19344.98
+Wednesday,Times Sq/Theatre District,7,27598.36
+Wednesday,Times Sq/Theatre District,8,37080.0
+Wednesday,Times Sq/Theatre District,9,38922.43
+Wednesday,Times Sq/Theatre District,10,33832.37
+Wednesday,Times Sq/Theatre District,11,38896.4
+Wednesday,Times Sq/Theatre District,12,37656.11
+Wednesday,Times Sq/Theatre District,13,41761.91
+Wednesday,Times Sq/Theatre District,14,46654.37
+Wednesday,Times Sq/Theatre District,15,48644.35
+Wednesday,Times Sq/Theatre District,16,52027.52
+Wednesday,Times Sq/Theatre District,17,55619.1
+Wednesday,Times Sq/Theatre District,18,54355.86
+Wednesday,Times Sq/Theatre District,19,60805.13
+Wednesday,Times Sq/Theatre District,20,90926.46
+Wednesday,Times Sq/Theatre District,21,112086.86
+Wednesday,Times Sq/Theatre District,22,90500.08
+Wednesday,Times Sq/Theatre District,23,52645.71
+Wednesday,TriBeCa/Civic Center,0,12250.02
+Wednesday,TriBeCa/Civic Center,1,6637.46
+Wednesday,TriBeCa/Civic Center,2,4115.51
+Wednesday,TriBeCa/Civic Center,3,3636.63
+Wednesday,TriBeCa/Civic Center,4,8173.21
+Wednesday,TriBeCa/Civic Center,5,11986.72
+Wednesday,TriBeCa/Civic Center,6,20627.76
+Wednesday,TriBeCa/Civic Center,7,34317.08
+Wednesday,TriBeCa/Civic Center,8,39623.31
+Wednesday,TriBeCa/Civic Center,9,33426.37
+Wednesday,TriBeCa/Civic Center,10,29441.26
+Wednesday,TriBeCa/Civic Center,11,30199.35
+Wednesday,TriBeCa/Civic Center,12,30077.98
+Wednesday,TriBeCa/Civic Center,13,30751.81
+Wednesday,TriBeCa/Civic Center,14,37411.13
+Wednesday,TriBeCa/Civic Center,15,38563.58
+Wednesday,TriBeCa/Civic Center,16,42360.81
+Wednesday,TriBeCa/Civic Center,17,52025.6
+Wednesday,TriBeCa/Civic Center,18,49654.52
+Wednesday,TriBeCa/Civic Center,19,46728.96
+Wednesday,TriBeCa/Civic Center,20,52567.04
+Wednesday,TriBeCa/Civic Center,21,58785.07
+Wednesday,TriBeCa/Civic Center,22,49432.06
+Wednesday,TriBeCa/Civic Center,23,26392.04
+Wednesday,West Chelsea/Hudson Yards,0,9918.88
+Wednesday,West Chelsea/Hudson Yards,1,5905.42
+Wednesday,West Chelsea/Hudson Yards,2,3713.29
+Wednesday,West Chelsea/Hudson Yards,3,2921.33
+Wednesday,West Chelsea/Hudson Yards,4,4849.19
+Wednesday,West Chelsea/Hudson Yards,5,6433.4800000000005
+Wednesday,West Chelsea/Hudson Yards,6,10258.41
+Wednesday,West Chelsea/Hudson Yards,7,21634.59
+Wednesday,West Chelsea/Hudson Yards,8,33016.4
+Wednesday,West Chelsea/Hudson Yards,9,23934.44
+Wednesday,West Chelsea/Hudson Yards,10,20009.69
+Wednesday,West Chelsea/Hudson Yards,11,23033.35
+Wednesday,West Chelsea/Hudson Yards,12,24252.12
+Wednesday,West Chelsea/Hudson Yards,13,27118.83
+Wednesday,West Chelsea/Hudson Yards,14,32012.79
+Wednesday,West Chelsea/Hudson Yards,15,40052.89
+Wednesday,West Chelsea/Hudson Yards,16,43672.87
+Wednesday,West Chelsea/Hudson Yards,17,57182.51
+Wednesday,West Chelsea/Hudson Yards,18,52576.78
+Wednesday,West Chelsea/Hudson Yards,19,47966.24
+Wednesday,West Chelsea/Hudson Yards,20,62893.67
+Wednesday,West Chelsea/Hudson Yards,21,58756.6
+Wednesday,West Chelsea/Hudson Yards,22,46822.63
+Wednesday,West Chelsea/Hudson Yards,23,23743.34
