@@ -6,8 +6,7 @@ df = pd.read_csv("TLCDriver_2024_01_dash.csv")
 heatmap_data = pd.DataFrame(df)
 
 # Streamlit app title
-st.title("Driver Pay Heatmap by Weekday and Hour",
-         page_icon=':earth_americas:')
+st.title("Driver Pay Heatmap by Weekday and Hour")
 
 # Dropdown for weekday selection
 selected_weekday = st.selectbox(
