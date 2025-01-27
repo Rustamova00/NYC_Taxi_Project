@@ -39,6 +39,7 @@ else:
         xaxis_title="Hour of Day",
         yaxis_title="Zone",
         coloraxis_colorbar=dict(title="Total Pay ($)"),
+        use_container_width=True
     )
 
     # Display the heatmap in Streamlit
