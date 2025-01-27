@@ -44,4 +44,4 @@ else:
     
 
     # Display the heatmap in Streamlit
-st.plotly_chart(fig)
+st.plotly_chart(fig,use_container_width=True)
