@@ -15,11 +15,6 @@ selected_weekday = st.selectbox(
     index=0
 )
 
-selected_zone = st.selectbox(
-    "Select a Zone",
-    options=heatmap_data['Zone'].unique(),
-    index=0
-)
 
 # Filter data for the selected weekday
 weekday_data = heatmap_data[heatmap_data['weekday'] == selected_weekday ]
