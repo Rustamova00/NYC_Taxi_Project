@@ -70,6 +70,11 @@ if not weekday_data.empty:
             y=heatmap_pivot.index,
             color_continuous_scale="reds",
         )
+              # Update hover text formatting to include $ and thousand separators
+        fig.update_traces(
+            hovertemplate="Hour: %{x}<br>Zone: %{y}<br>Total Pay: $%{z:,.2f}"
+        )
+
         # Customize layout
         fig.update_layout(
             title=f"Total Driver Pay for Top 10 Zones on {selected_weekday}, Week {selected_week_number}",
