@@ -3,6 +3,8 @@ import pandas as pd
 import plotly.express as px
 
 # Load data
+df_02_2023 = pd.read_csv("TLCDriver_2023_02_heatmap_df.csv")
+
 df_01_2024 = pd.read_csv("TLCDriver_2024_01_heatmap_df.csv")
 df_02_2024 = pd.read_csv("TLCDriver_2024_02_heatmap_df.csv")
 df_03_2024 = pd.read_csv("TLCDriver_2024_03_heatmap_df.csv")
@@ -16,6 +18,8 @@ df_10_2024 = pd.read_csv("TLCDriver_2024_10_heatmap_df.csv")
 df_11_2024 = pd.read_csv("TLCDriver_2024_11_heatmap_df.csv")
 # Dictionary to map months to DataFrames
 month_options = {
+    "February 2024": df_02_2023,
+
     "January 2024": df_01_2024,
     "February 2024": df_02_2024,
     "March 2024": df_03_2024,
