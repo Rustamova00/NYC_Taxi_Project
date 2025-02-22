@@ -39,7 +39,7 @@ st.link_button("Data source: Historical data ", "https://www.nyc.gov/site/tlc/ab
 
 st.markdown("""
 ### Dashboard Summary  
-🚖 **Driver Earnings Heatmap** – This interactive visualization helps analyze **driver pay trends** across different ** Months, zones, weekdays, and hours of the day**.  
+🚖 **Driver Earnings Heatmap** – This interactive visualization helps analyze **driver pay trends** across different **Months, zones, weekdays, and hours of the day**.  
 
 📊 **How to Use:**  
 1️⃣ **Select a Month** – Choose the dataset for a specific month.  
