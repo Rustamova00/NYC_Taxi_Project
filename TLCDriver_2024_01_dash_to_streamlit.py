@@ -69,7 +69,6 @@ if not weekday_data.empty:
             x=heatmap_pivot.columns,
             y=heatmap_pivot.index,
             color_continuous_scale="reds",
-            text_auto=".2f"  # Automatically formats numbers to 2 decimal places
         )
         # Customize layout
         fig.update_layout(
