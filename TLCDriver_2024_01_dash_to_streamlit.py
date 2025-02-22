@@ -3,22 +3,22 @@ import pandas as pd
 import plotly.express as px
 
 # Load data
-df_02_2023 = pd.read_csv("TLCDriver_2023_02_heatmap_df.csv")
+df_02_2023 = pd.read_csv("data/TLCDriver_2023_02_heatmap_df.csv")
 
-df_01_2024 = pd.read_csv("TLCDriver_2024_01_heatmap_df.csv")
-df_02_2024 = pd.read_csv("TLCDriver_2024_02_heatmap_df.csv")
-df_03_2024 = pd.read_csv("TLCDriver_2024_03_heatmap_df.csv")
-df_04_2024 = pd.read_csv("TLCDriver_2024_04_heatmap_df.csv")
-df_05_2024 = pd.read_csv("TLCDriver_2024_05_heatmap_df.csv")
-df_06_2024 = pd.read_csv("TLCDriver_2024_06_heatmap_df.csv")
-df_07_2024 = pd.read_csv("TLCDriver_2024_07_heatmap_df.csv")
-df_08_2024 = pd.read_csv("TLCDriver_2024_08_heatmap_df.csv")
-df_09_2024 = pd.read_csv("TLCDriver_2024_09_heatmap_df.csv")
-df_10_2024 = pd.read_csv("TLCDriver_2024_10_heatmap_df.csv")
-df_11_2024 = pd.read_csv("TLCDriver_2024_11_heatmap_df.csv")
+df_01_2024 = pd.read_csv("data/TLCDriver_2024_01_heatmap_df.csv")
+df_02_2024 = pd.read_csv("data/TLCDriver_2024_02_heatmap_df.csv")
+df_03_2024 = pd.read_csv("data/TLCDriver_2024_03_heatmap_df.csv")
+df_04_2024 = pd.read_csv("data/TLCDriver_2024_04_heatmap_df.csv")
+df_05_2024 = pd.read_csv("data/TLCDriver_2024_05_heatmap_df.csv")
+df_06_2024 = pd.read_csv("data/TLCDriver_2024_06_heatmap_df.csv")
+df_07_2024 = pd.read_csv("data/TLCDriver_2024_07_heatmap_df.csv")
+df_08_2024 = pd.read_csv("data/TLCDriver_2024_08_heatmap_df.csv")
+df_09_2024 = pd.read_csv("data/TLCDriver_2024_09_heatmap_df.csv")
+df_10_2024 = pd.read_csv("data/TLCDriver_2024_10_heatmap_df.csv")
+df_11_2024 = pd.read_csv("data/TLCDriver_2024_11_heatmap_df.csv")
 # Dictionary to map months to DataFrames
 month_options = {
-    "February 2024": df_02_2023,
+    "February 2023": df_02_2023,
 
     "January 2024": df_01_2024,
     "February 2024": df_02_2024,
@@ -34,12 +34,12 @@ month_options = {
 }
 
 # Streamlit app title
-st.title("NYC For-Hire Driver Earnings Analysis: Trends by Week, Day & Hour")
+st.title("NYC For-Hire Driver Earnings Analysis: Trends by Month, Week, Day & Hour")
 st.link_button("Data source: Historical data ", "https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page")
 
 st.markdown("""
 ### Dashboard Summary  
-🚖 **Driver Earnings Heatmap** – This interactive visualization helps analyze **driver pay trends** across different **zones, weekdays, and hours of the day**.  
+🚖 **Driver Earnings Heatmap** – This interactive visualization helps analyze **driver pay trends** across different **months, zones, weekdays, and hours of the day**.  
 
 📊 **How to Use:**  
 1️⃣ **Select a Month** – Choose the dataset for a specific month.  
@@ -47,7 +47,7 @@ st.markdown("""
 3️⃣ **Select a Weekday** – Analyze trends for a specific day.  
 4️⃣ **Explore the Heatmap** – Darker areas indicate higher total driver pay.  
 
-Use these insights to optimize driving schedules, understand peak hours, and maximize earnings! 🚀  
+Use these insights to optimize driving schedules, understand peak hours, and maximize earnings based on historical data! 🚀  
 """)
 # Dropdown for month selection
 selected_month_label = st.selectbox(
