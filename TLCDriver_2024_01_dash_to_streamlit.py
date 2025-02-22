@@ -34,12 +34,12 @@ month_options = {
 }
 
 # Streamlit app title
-st.title("NYC For-Hire Driver Earnings Analysis: Trends by Week, Day & Hour")
+st.title("NYC For-Hire Driver Earnings Analysis: Trends by Month, Week, Day & Hour")
 st.link_button("Data source: Historical data ", "https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page")
 
 st.markdown("""
 ### Dashboard Summary  
-🚖 **Driver Earnings Heatmap** – This interactive visualization helps analyze **driver pay trends** across different **zones, weekdays, and hours of the day**.  
+🚖 **Driver Earnings Heatmap** – This interactive visualization helps analyze **driver pay trends** across different ** Months, zones, weekdays, and hours of the day**.  
 
 📊 **How to Use:**  
 1️⃣ **Select a Month** – Choose the dataset for a specific month.  
@@ -47,7 +47,7 @@ st.markdown("""
 3️⃣ **Select a Weekday** – Analyze trends for a specific day.  
 4️⃣ **Explore the Heatmap** – Darker areas indicate higher total driver pay.  
 
-Use these insights to optimize driving schedules, understand peak hours, and maximize earnings! 🚀  
+Use these insights to optimize driving schedules, understand peak hours, and maximize earnings based on historical data! 🚀  
 """)
 # Dropdown for month selection
 selected_month_label = st.selectbox(
