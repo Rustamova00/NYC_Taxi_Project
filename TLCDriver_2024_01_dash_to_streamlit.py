@@ -63,15 +63,14 @@ if not weekday_data.empty:
     if heatmap_pivot.empty:
         st.warning(f"No data available for {selected_weekday} in week {selected_week_number}.")
     else:
-        # Plot the heatmap
         fig = px.imshow(
             heatmap_pivot,
-            labels={"x": "Hour", "y": "Zone", "color": "Total Driver Pay"},
+            labels={"x": "Hour", "y": "Zone", "color": "Total Driver Pay ($)"},
             x=heatmap_pivot.columns,
             y=heatmap_pivot.index,
-            color_continuous_scale="reds"
+            color_continuous_scale="reds",
+            text_auto=".2f"  # Automatically formats numbers to 2 decimal places
         )
-
         # Customize layout
         fig.update_layout(
             title=f"Total Driver Pay for Top 10 Zones on {selected_weekday}, Week {selected_week_number}",
