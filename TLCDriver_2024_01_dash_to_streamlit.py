@@ -14,8 +14,7 @@ month_options = {
 
 # Streamlit app title
 st.title("Driver Pay Heatmap by Weekday, Week Number, and Hour")
-st.subheader("Data source: Historical data - https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page ")
-
+st.link_button("Data source: Historical data ", "https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page")
 # Dropdown for month selection
 selected_month_label = st.selectbox(
     "Select a Month",
