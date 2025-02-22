@@ -1,19 +1,28 @@
 import streamlit as st
 import pandas as pd
 import plotly.express as px
-
+# Load data
 df_01_2024 = pd.read_csv("TLCDriver_2024_01_dash.csv")
 df_02_2024 = pd.read_csv("TLCDriver_2024_02_heatmap_df.csv")
-month_df= ["df_01_2024","df_02_2024"]
 
-# Dropdown for month weekday selection
-selected_month = st.selectbox(
+#  dictionary to map months to DataFrames
+month_options = {
+    "January 2024": df_01_2024,
+    "February 2024": df_02_2024
+}
+
+# Dropdown for month selection
+selected_month_label = st.selectbox(
     "Select a Month",
-    options=month_df.unique(),
+    options=list(month_options.keys()),
     index=0
 )
-heatmap_data = pd.DataFrame(selected_month)
 
+# Retrieve the selected DataFrame
+heatmap_data = month_options[selected_month_label]
+
+# Display the selected DataFrame
+st.write(heatmap_data)
 # Streamlit app title
 st.title("Driver Pay Heatmap by Weekday and Hour")
 
